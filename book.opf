@@ -6,7 +6,7 @@
 		<dc:title>Evangel Presbytery Book of Church Order</dc:title>
 <dc:language>en</dc:language>
 <dc:identifier id="PrimaryID" opf:scheme="URI">http://evangel.pressbooks.com</dc:identifier>
-<dc:description>Adopted by Evangel Presbytery on February 20, 2019.&lt;br /&gt;&lt;em&gt;(Updated for style and formatting &lt;strong&gt;February 28, 2019&lt;/strong&gt;. Previous versions can be found &lt;a href=&quot;http://evangelpresbytery.com/bco-version-history/&quot;&gt;here&lt;/a&gt;.)&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;For more information, please visit &lt;a href=&quot;http://evangelpresbytery.com&quot;&gt;http://evangelpresbytery.com&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Download:&lt;/em&gt;&lt;br /&gt;&lt;u&gt;EPUB&lt;/u&gt; | &lt;u&gt;MOBI&lt;/u&gt; | &lt;a href=&quot;https://www.dropbox.com/s/pu9s1vh3o3fo618/Book%20of%20Church%20Order%20of%20Evangel%20Presbytery%20%28DRAFT%202%29.pdf?dl=1&quot;&gt;&lt;u&gt;PDF (print)&lt;/u&gt;&lt;/a&gt; | &lt;u&gt;PDF (digital)&lt;/u&gt;</dc:description>
+<dc:description>Adopted by Evangel Presbytery on February 20, 2019.&lt;br /&gt;&lt;em&gt;(Updated for style and formatting &lt;strong&gt;February 28, 2019&lt;/strong&gt;. Previous versions can be found &lt;a href=&quot;http://evangelpresbytery.com/bco-version-history/&quot;&gt;here&lt;/a&gt;.)&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;For more information, please visit &lt;a href=&quot;http://evangelpresbytery.com&quot;&gt;http://evangelpresbytery.com&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Download:&lt;/em&gt;&lt;br /&gt;&lt;a href=&quot;https://www.dropbox.com/s/re3dv00n8pbgiqc/Evangel-Presbytery-Book-of-Church-Order-1551380439.epub?dl=1&quot;&gt;EPUB&lt;/a&gt; | &lt;a href=&quot;https://www.dropbox.com/s/lluac9wy0rco6zj/Evangel-Presbytery-Book-of-Church-Order-1551380451.mobi?dl=1&quot;&gt;MOBI&lt;/a&gt; | &lt;a href=&quot;https://www.dropbox.com/s/81tcs253a36vc9q/Evangel-Presbytery-Book-of-Church-Order-1551380474._print.pdf?dl=1&quot;&gt;PDF (print)&lt;/a&gt; | &lt;a href=&quot;https://www.dropbox.com/s/xxjct6z05v2v2e0/Evangel-Presbytery-Book-of-Church-Order-1551380462.pdf?dl=1&quot;&gt;PDF (with links)&lt;/a&gt;</dc:description>
 <dc:creator opf:role="aut" opf:file-as="Presbytery, Evangel">Evangel Presbytery</dc:creator>
 <dc:contributor opf:role="aut">Evangel Presbytery</dc:contributor>
 <dc:rights>Copyright &#169; 2019 by Evangel Presbytery. Evangel Presbytery Book of Church Order Copyright © 2019 by Evangel Presbytery. All Rights Reserved.</dc:rights>
@@ -82,6 +82,7 @@
 <item id="chapter-056" href="OEBPS/chapter-056-slug-55-forms-for-particular-worship-services-ceremonies-and-creeds.html" media-type="application/xhtml+xml" />
 <item id="back-matter-001" href="OEBPS/back-matter-001-appendices.html" media-type="application/xhtml+xml" />
 <item id="back-matter-002" href="OEBPS/back-matter-002-appendix-2-original-texts-of-liturgical-forms.html" media-type="application/xhtml+xml" />
+<item id="back-matter-003" href="OEBPS/back-matter-003-updates.html" media-type="application/xhtml+xml" />
 <item id="cover-image" href="OEBPS/assets/BCO_Cover3.png" media-type="image/png" />
 <item id="media-CormorantGaramond-Bold" href="OEBPS/assets/CormorantGaramond-Bold.ttf" media-type="application/x-font-ttf" />
 <item id="media-CormorantGaramond-BoldItalic" href="OEBPS/assets/CormorantGaramond-BoldItalic.ttf" media-type="application/x-font-ttf" />
@@ -165,6 +166,7 @@
 <itemref idref="chapter-056" linear="yes" />
 <itemref idref="back-matter-001" linear="yes" />
 <itemref idref="back-matter-002" linear="yes" />
+<itemref idref="back-matter-003" linear="yes" />
 	</spine>
 
 

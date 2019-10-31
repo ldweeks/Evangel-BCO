@@ -285,5 +285,9 @@
 					<navPoint id="back-matter-002" playOrder="66">
 					<navLabel><text>Appendix 2: Original texts of liturgical forms</text></navLabel>
 					<content src="OEBPS/back-matter-002-appendix-2-original-texts-of-liturgical-forms.html" />
+					</navPoint>
+					<navPoint id="back-matter-003" playOrder="67">
+					<navLabel><text>Updates</text></navLabel>
+					<content src="OEBPS/back-matter-003-updates.html" />
 					</navPoint>	</navMap>
 </ncx>
