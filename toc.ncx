@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+	<head>
+		<!-- The following four metadata items are required for all NCX documents,
+		including those conforming to the relaxed constraints of OPS 2.0 -->
+
+		<meta name="dtb:uid" content="http://evangel.pressbooks.com" /> <!-- same as in .opf -->
+		<meta name="dtb:depth" content="2"/> <!-- 1 or higher -->
+		<meta name="dtb:totalPageCount" content="0"/> <!-- must be 0 -->
+		<meta name="dtb:maxPageNumber" content="0"/> <!-- must be 0 -->
+	</head>
+
+	<docTitle>
+		<text>Evangel Presbytery Book of Church Order </text>
+	</docTitle>
+
+		<docAuthor>
+		<text>Evangel Presbytery</text>
+	</docAuthor>
+	
+	<navMap>
+		
+					<navPoint id="front-cover" playOrder="1">
+					<navLabel><text>Cover</text></navLabel>
+					<content src="OEBPS/front-cover.html" />
+					</navPoint>
+					<navPoint id="title-page" playOrder="2">
+					<navLabel><text>Title Page</text></navLabel>
+					<content src="OEBPS/title-page.html" />
+					</navPoint>
+					<navPoint id="copyright" playOrder="3">
+					<navLabel><text>Copyright</text></navLabel>
+					<content src="OEBPS/copyright.html" />
+					</navPoint>
+					<navPoint id="table-of-contents" playOrder="4">
+					<navLabel><text>Table Of Contents</text></navLabel>
+					<content src="OEBPS/table-of-contents.html" />
+					</navPoint>
+					<navPoint id="front-matter-001" playOrder="5">
+					<navLabel><text>Preface</text></navLabel>
+					<content src="OEBPS/front-matter-001-preface.html" />
+					</navPoint>
+					<navPoint id="part-001" playOrder="6">
+					<navLabel><text>Form of Government</text></navLabel>
+					<content src="OEBPS/part-001-main-body-2.html" />
+					
+					<navPoint id="chapter-001" playOrder="7">
+					<navLabel><text>1. The Doctrine Of Church Government</text></navLabel>
+					<content src="OEBPS/chapter-001-slug-1-the-doctrine-of-church-government.html" />
+					</navPoint>
+					<navPoint id="chapter-002" playOrder="8">
+					<navLabel><text>2. The King And Head Of The Church</text></navLabel>
+					<content src="OEBPS/chapter-002-slug-2-the-king-and-head-of-the-church.html" />
+					</navPoint>
+					<navPoint id="chapter-003" playOrder="9">
+					<navLabel><text>3. The Visible Church Defined</text></navLabel>
+					<content src="OEBPS/chapter-003-slug-3-the-visible-church-defined.html" />
+					</navPoint>
+					<navPoint id="chapter-004" playOrder="10">
+					<navLabel><text>4. The Nature And Extent Of Church Power</text></navLabel>
+					<content src="OEBPS/chapter-004-slug-4-the-nature-and-extent-of-church-power.html" />
+					</navPoint>
+					<navPoint id="chapter-005" playOrder="11">
+					<navLabel><text>5. The Particular Church</text></navLabel>
+					<content src="OEBPS/chapter-005-slug-5-the-particular-church.html" />
+					</navPoint>
+					<navPoint id="chapter-006" playOrder="12">
+					<navLabel><text>6. The Organization Of A Particular Church</text></navLabel>
+					<content src="OEBPS/chapter-006-slug-6-the-organization-of-a-particular-church.html" />
+					</navPoint>
+					<navPoint id="chapter-007" playOrder="13">
+					<navLabel><text>7. Church Members</text></navLabel>
+					<content src="OEBPS/chapter-007-slug-7-church-members.html" />
+					</navPoint>
+					<navPoint id="chapter-008" playOrder="14">
+					<navLabel><text>8. Church Officers—General Classification</text></navLabel>
+					<content src="OEBPS/chapter-008-slug-8-church-officers-general-classification.html" />
+					</navPoint>
+					<navPoint id="chapter-009" playOrder="15">
+					<navLabel><text>9. The Minister Of The Word</text></navLabel>
+					<content src="OEBPS/chapter-009-slug-9-the-minister-of-the-word.html" />
+					</navPoint>
+					<navPoint id="chapter-010" playOrder="16">
+					<navLabel><text>10. The Ruling Elder</text></navLabel>
+					<content src="OEBPS/chapter-010-slug-10-the-ruling-elder.html" />
+					</navPoint>
+					<navPoint id="chapter-011" playOrder="17">
+					<navLabel><text>11. The Deacon</text></navLabel>
+					<content src="OEBPS/chapter-011-slug-11-the-deacon.html" />
+					</navPoint>
+					<navPoint id="chapter-012" playOrder="18">
+					<navLabel><text>12. Church Courts—in General</text></navLabel>
+					<content src="OEBPS/chapter-012-slug-12-church-courts-in-general.html" />
+					</navPoint>
+					<navPoint id="chapter-013" playOrder="19">
+					<navLabel><text>13. Jurisdiction of Church Courts</text></navLabel>
+					<content src="OEBPS/chapter-013-slug-13-jurisdiction-of-church-courts.html" />
+					</navPoint>
+					<navPoint id="chapter-014" playOrder="20">
+					<navLabel><text>14. The Church Session</text></navLabel>
+					<content src="OEBPS/chapter-014-slug-14-the-church-session.html" />
+					</navPoint>
+					<navPoint id="chapter-015" playOrder="21">
+					<navLabel><text>15. The Presbytery</text></navLabel>
+					<content src="OEBPS/chapter-015-slug-15-the-presbytery.html" />
+					</navPoint>
+					<navPoint id="chapter-016" playOrder="22">
+					<navLabel><text>16. Provisions Concerning Baptism</text></navLabel>
+					<content src="OEBPS/chapter-016-slug-16-provisions-concerning-baptism.html" />
+					</navPoint>
+					<navPoint id="chapter-017" playOrder="23">
+					<navLabel><text>17. Ecclesiastical Commissions</text></navLabel>
+					<content src="OEBPS/chapter-017-slug-17-ecclesiastical-commissions.html" />
+					</navPoint>
+					<navPoint id="chapter-018" playOrder="24">
+					<navLabel><text>18. Church Orders—the Doctrine Of Vocation</text></navLabel>
+					<content src="OEBPS/chapter-018-slug-18-church-orders-the-doctrine-of-vocation.html" />
+					</navPoint>
+					<navPoint id="chapter-019" playOrder="25">
+					<navLabel><text>19. The Doctrine Of Ordination</text></navLabel>
+					<content src="OEBPS/chapter-019-slug-19-the-doctrine-of-ordination.html" />
+					</navPoint>
+					<navPoint id="chapter-020" playOrder="26">
+					<navLabel><text>20. Candidates For The Gospel Ministry</text></navLabel>
+					<content src="OEBPS/chapter-020-slug-20-candidates-for-the-gospel-ministry.html" />
+					</navPoint>
+					<navPoint id="chapter-021" playOrder="27">
+					<navLabel><text>21. The Licensure of Candidates for the Gospel Ministry</text></navLabel>
+					<content src="OEBPS/chapter-021-slug-21-the-licensure-of-candidates-for-the-gospel-ministry.html" />
+					</navPoint>
+					<navPoint id="chapter-022" playOrder="28">
+					<navLabel><text>22. The Election of Pastors</text></navLabel>
+					<content src="OEBPS/chapter-022-slug-22-the-election-of-pastors.html" />
+					</navPoint>
+					<navPoint id="chapter-023" playOrder="29">
+					<navLabel><text>23. The Ordination And Installation Of Ministers</text></navLabel>
+					<content src="OEBPS/chapter-023-slug-23-the-ordination-and-installation-of-ministers.html" />
+					</navPoint>
+					<navPoint id="chapter-024" playOrder="30">
+					<navLabel><text>24. The Pastoral Relations</text></navLabel>
+					<content src="OEBPS/chapter-024-slug-24-the-pastoral-relations.html" />
+					</navPoint>
+					<navPoint id="chapter-025" playOrder="31">
+					<navLabel><text>25. The Dissolution Of The Pastoral Relation</text></navLabel>
+					<content src="OEBPS/chapter-025-slug-25-the-dissolution-of-the-pastoral-relation.html" />
+					</navPoint>
+					<navPoint id="chapter-026" playOrder="32">
+					<navLabel><text>26. Election, Ordination and Installation of Ruling Elders and Deacons</text></navLabel>
+					<content src="OEBPS/chapter-026-slug-26-election-ordination-and-installation-of-ruling-elders-and-deacons.html" />
+					</navPoint>
+					<navPoint id="chapter-027" playOrder="33">
+					<navLabel><text>27. Congregational Meetings</text></navLabel>
+					<content src="OEBPS/chapter-027-slug-27-congregational-meetings.html" />
+					</navPoint>
+					<navPoint id="chapter-028" playOrder="34">
+					<navLabel><text>28. Declaration of Doctrine and Policies Concerning Sexuality</text></navLabel>
+					<content src="OEBPS/chapter-028-slug-28-declaration-of-doctrine-and-policies-concerning-sexuality.html" />
+					</navPoint>
+					<navPoint id="chapter-029" playOrder="35">
+					<navLabel><text>29. Amending The Constitution Of The Church</text></navLabel>
+					<content src="OEBPS/chapter-029-slug-29-amending-the-constitution-of-the-church.html" />
+					</navPoint></navPoint>
+					<navPoint id="part-002" playOrder="36">
+					<navLabel><text>The Rules of Discipline</text></navLabel>
+					<content src="OEBPS/part-002-the-rules-of-discipline.html" />
+					
+					<navPoint id="chapter-030" playOrder="37">
+					<navLabel><text>30. Discipline—Its Nature, Subjects, And Ends</text></navLabel>
+					<content src="OEBPS/chapter-030-slug-30-discipline-its-nature-subjects-and-ends.html" />
+					</navPoint>
+					<navPoint id="chapter-031" playOrder="38">
+					<navLabel><text>31. Discipline Of Non-Communing Members</text></navLabel>
+					<content src="OEBPS/chapter-031-slug-31-discipline-of-non-communing-members.html" />
+					</navPoint>
+					<navPoint id="chapter-032" playOrder="39">
+					<navLabel><text>32. Offenses</text></navLabel>
+					<content src="OEBPS/chapter-032-slug-32-offenses.html" />
+					</navPoint>
+					<navPoint id="chapter-033" playOrder="40">
+					<navLabel><text>33. Church Censures</text></navLabel>
+					<content src="OEBPS/chapter-033-slug-33-church-censures.html" />
+					</navPoint>
+					<navPoint id="chapter-034" playOrder="41">
+					<navLabel><text>34. The Parties In Cases Of Process</text></navLabel>
+					<content src="OEBPS/chapter-034-slug-34-the-parties-in-cases-of-process.html" />
+					</navPoint>
+					<navPoint id="chapter-035" playOrder="42">
+					<navLabel><text>35. General Provisions Applicable To All Cases Of Process</text></navLabel>
+					<content src="OEBPS/chapter-035-slug-35-general-provisions-applicable-to-all-cases-of-process.html" />
+					</navPoint>
+					<navPoint id="chapter-036" playOrder="43">
+					<navLabel><text>36. Special Rules Pertaining To Process Before Sessions</text></navLabel>
+					<content src="OEBPS/chapter-036-slug-36-special-rules-pertaining-to-process-before-sessions.html" />
+					</navPoint>
+					<navPoint id="chapter-037" playOrder="44">
+					<navLabel><text>37. Special Rules Pertaining To Process Against A Minister</text></navLabel>
+					<content src="OEBPS/chapter-037-slug-37-special-rules-pertaining-to-process-against-a-minister.html" />
+					</navPoint>
+					<navPoint id="chapter-038" playOrder="45">
+					<navLabel><text>38. Evidence</text></navLabel>
+					<content src="OEBPS/chapter-038-slug-38-evidence.html" />
+					</navPoint>
+					<navPoint id="chapter-039" playOrder="46">
+					<navLabel><text>39. The Infliction Of Church Censures</text></navLabel>
+					<content src="OEBPS/chapter-039-slug-39-the-infliction-of-church-censures.html" />
+					</navPoint>
+					<navPoint id="chapter-040" playOrder="47">
+					<navLabel><text>40. The Removal Of Censure</text></navLabel>
+					<content src="OEBPS/chapter-040-slug-40-the-removal-of-censure.html" />
+					</navPoint>
+					<navPoint id="chapter-041" playOrder="48">
+					<navLabel><text>41. Cases Without Process</text></navLabel>
+					<content src="OEBPS/chapter-041-slug-41-cases-without-process.html" />
+					</navPoint>
+					<navPoint id="chapter-042" playOrder="49">
+					<navLabel><text>42. Modes In Which The Proceedings Of Lower Courts Come Under The Supervision Of Higher Courts</text></navLabel>
+					<content src="OEBPS/chapter-042-slug-42-modes-in-which-the-proceedings-of-lower-courts-come-under-the-supervision-of-higher-courts.html" />
+					</navPoint>
+					<navPoint id="chapter-043" playOrder="50">
+					<navLabel><text>43. General Review And Control</text></navLabel>
+					<content src="OEBPS/chapter-043-slug-43-general-review-and-control.html" />
+					</navPoint>
+					<navPoint id="chapter-044" playOrder="51">
+					<navLabel><text>44. References</text></navLabel>
+					<content src="OEBPS/chapter-044-slug-44-references.html" />
+					</navPoint>
+					<navPoint id="chapter-045" playOrder="52">
+					<navLabel><text>45. Appeals</text></navLabel>
+					<content src="OEBPS/chapter-045-slug-45-appeals.html" />
+					</navPoint>
+					<navPoint id="chapter-046" playOrder="53">
+					<navLabel><text>46. Complaints</text></navLabel>
+					<content src="OEBPS/chapter-046-slug-46-complaints.html" />
+					</navPoint>
+					<navPoint id="chapter-047" playOrder="54">
+					<navLabel><text>47. Voting in Appeals and Complaints</text></navLabel>
+					<content src="OEBPS/chapter-047-slug-47-voting-in-appeals-and-complaints.html" />
+					</navPoint>
+					<navPoint id="chapter-048" playOrder="55">
+					<navLabel><text>48. Dissents, Protests, and Objections</text></navLabel>
+					<content src="OEBPS/chapter-048-slug-48-dissents-protests-and-objections.html" />
+					</navPoint>
+					<navPoint id="chapter-049" playOrder="56">
+					<navLabel><text>49. Jurisdiction</text></navLabel>
+					<content src="OEBPS/chapter-049-slug-49-jurisdiction.html" />
+					</navPoint></navPoint>
+					<navPoint id="part-003" playOrder="57">
+					<navLabel><text>Directory for the Worship of God</text></navLabel>
+					<content src="OEBPS/part-003-directory-for-the-worship-of-god.html" />
+					
+					<navPoint id="chapter-050" playOrder="58">
+					<navLabel><text>Preface to the Directory</text></navLabel>
+					<content src="OEBPS/chapter-050-preface-to-the-directory.html" />
+					</navPoint>
+					<navPoint id="chapter-051" playOrder="59">
+					<navLabel><text>50. The Principles of Public Worship</text></navLabel>
+					<content src="OEBPS/chapter-051-slug-50-the-principles-of-public-worship.html" />
+					</navPoint>
+					<navPoint id="chapter-052" playOrder="60">
+					<navLabel><text>51. Elements of Ordinary Public Worship</text></navLabel>
+					<content src="OEBPS/chapter-052-slug-51-elements-of-ordinary-public-worship.html" />
+					</navPoint>
+					<navPoint id="chapter-053" playOrder="61">
+					<navLabel><text>52. The Administration of the Sacraments</text></navLabel>
+					<content src="OEBPS/chapter-053-slug-52-the-administration-of-the-sacraments.html" />
+					</navPoint>
+					<navPoint id="chapter-054" playOrder="62">
+					<navLabel><text>53. Public Reception of Church Members</text></navLabel>
+					<content src="OEBPS/chapter-054-slug-53-public-reception-of-church-members.html" />
+					</navPoint>
+					<navPoint id="chapter-055" playOrder="63">
+					<navLabel><text>54. Other Occasions of Public Worship</text></navLabel>
+					<content src="OEBPS/chapter-055-slug-54-other-occasions-of-public-worship.html" />
+					</navPoint>
+					<navPoint id="chapter-056" playOrder="64">
+					<navLabel><text>55. Forms for Particular Worship Services, Ceremonies, and Creeds</text></navLabel>
+					<content src="OEBPS/chapter-056-slug-55-forms-for-particular-worship-services-ceremonies-and-creeds.html" />
+					</navPoint></navPoint>
+					<navPoint id="back-matter-001" playOrder="65">
+					<navLabel><text>Appendix 1: Form of Ministerial Obligation</text></navLabel>
+					<content src="OEBPS/back-matter-001-appendices.html" />
+					</navPoint>
+					<navPoint id="back-matter-002" playOrder="66">
+					<navLabel><text>Appendix 2: Original texts of liturgical forms</text></navLabel>
+					<content src="OEBPS/back-matter-002-appendix-2-original-texts-of-liturgical-forms.html" />
+					</navPoint>	</navMap>
+</ncx>

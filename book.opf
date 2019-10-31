@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="PrimaryID">
+
+
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:title>Evangel Presbytery Book of Church Order</dc:title>
+<dc:language>en</dc:language>
+<dc:identifier id="PrimaryID" opf:scheme="URI">http://evangel.pressbooks.com</dc:identifier>
+<dc:description>Adopted by Evangel Presbytery on February 20, 2019.&lt;br /&gt;&lt;em&gt;(Updated for style and formatting &lt;strong&gt;February 28, 2019&lt;/strong&gt;. Previous versions can be found &lt;a href=&quot;http://evangelpresbytery.com/bco-version-history/&quot;&gt;here&lt;/a&gt;.)&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;For more information, please visit &lt;a href=&quot;http://evangelpresbytery.com&quot;&gt;http://evangelpresbytery.com&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Download:&lt;/em&gt;&lt;br /&gt;&lt;u&gt;EPUB&lt;/u&gt; | &lt;u&gt;MOBI&lt;/u&gt; | &lt;a href=&quot;https://www.dropbox.com/s/pu9s1vh3o3fo618/Book%20of%20Church%20Order%20of%20Evangel%20Presbytery%20%28DRAFT%202%29.pdf?dl=1&quot;&gt;&lt;u&gt;PDF (print)&lt;/u&gt;&lt;/a&gt; | &lt;u&gt;PDF (digital)&lt;/u&gt;</dc:description>
+<dc:creator opf:role="aut" opf:file-as="Presbytery, Evangel">Evangel Presbytery</dc:creator>
+<dc:contributor opf:role="aut">Evangel Presbytery</dc:contributor>
+<dc:rights>Copyright &#169; 2019 by Evangel Presbytery. Evangel Presbytery Book of Church Order Copyright © 2019 by Evangel Presbytery. All Rights Reserved.</dc:rights>
+<dc:date opf:event="publication">2019-02-28</dc:date>
+<meta name="cover" content="cover-image" />
+	</metadata>
+
+
+	<manifest>
+		<item id="front-cover" href="OEBPS/front-cover.html" media-type="application/xhtml+xml" />
+<item id="title-page" href="OEBPS/title-page.html" media-type="application/xhtml+xml" />
+<item id="copyright" href="OEBPS/copyright.html" media-type="application/xhtml+xml" />
+<item id="table-of-contents" href="OEBPS/table-of-contents.html" media-type="application/xhtml+xml" />
+<item id="front-matter-001" href="OEBPS/front-matter-001-preface.html" media-type="application/xhtml+xml" />
+<item id="part-001" href="OEBPS/part-001-main-body-2.html" media-type="application/xhtml+xml" />
+<item id="chapter-001" href="OEBPS/chapter-001-slug-1-the-doctrine-of-church-government.html" media-type="application/xhtml+xml" />
+<item id="chapter-002" href="OEBPS/chapter-002-slug-2-the-king-and-head-of-the-church.html" media-type="application/xhtml+xml" />
+<item id="chapter-003" href="OEBPS/chapter-003-slug-3-the-visible-church-defined.html" media-type="application/xhtml+xml" />
+<item id="chapter-004" href="OEBPS/chapter-004-slug-4-the-nature-and-extent-of-church-power.html" media-type="application/xhtml+xml" />
+<item id="chapter-005" href="OEBPS/chapter-005-slug-5-the-particular-church.html" media-type="application/xhtml+xml" />
+<item id="chapter-006" href="OEBPS/chapter-006-slug-6-the-organization-of-a-particular-church.html" media-type="application/xhtml+xml" />
+<item id="chapter-007" href="OEBPS/chapter-007-slug-7-church-members.html" media-type="application/xhtml+xml" />
+<item id="chapter-008" href="OEBPS/chapter-008-slug-8-church-officers-general-classification.html" media-type="application/xhtml+xml" />
+<item id="chapter-009" href="OEBPS/chapter-009-slug-9-the-minister-of-the-word.html" media-type="application/xhtml+xml" />
+<item id="chapter-010" href="OEBPS/chapter-010-slug-10-the-ruling-elder.html" media-type="application/xhtml+xml" />
+<item id="chapter-011" href="OEBPS/chapter-011-slug-11-the-deacon.html" media-type="application/xhtml+xml" />
+<item id="chapter-012" href="OEBPS/chapter-012-slug-12-church-courts-in-general.html" media-type="application/xhtml+xml" />
+<item id="chapter-013" href="OEBPS/chapter-013-slug-13-jurisdiction-of-church-courts.html" media-type="application/xhtml+xml" />
+<item id="chapter-014" href="OEBPS/chapter-014-slug-14-the-church-session.html" media-type="application/xhtml+xml" />
+<item id="chapter-015" href="OEBPS/chapter-015-slug-15-the-presbytery.html" media-type="application/xhtml+xml" />
+<item id="chapter-016" href="OEBPS/chapter-016-slug-16-provisions-concerning-baptism.html" media-type="application/xhtml+xml" />
+<item id="chapter-017" href="OEBPS/chapter-017-slug-17-ecclesiastical-commissions.html" media-type="application/xhtml+xml" />
+<item id="chapter-018" href="OEBPS/chapter-018-slug-18-church-orders-the-doctrine-of-vocation.html" media-type="application/xhtml+xml" />
+<item id="chapter-019" href="OEBPS/chapter-019-slug-19-the-doctrine-of-ordination.html" media-type="application/xhtml+xml" />
+<item id="chapter-020" href="OEBPS/chapter-020-slug-20-candidates-for-the-gospel-ministry.html" media-type="application/xhtml+xml" />
+<item id="chapter-021" href="OEBPS/chapter-021-slug-21-the-licensure-of-candidates-for-the-gospel-ministry.html" media-type="application/xhtml+xml" />
+<item id="chapter-022" href="OEBPS/chapter-022-slug-22-the-election-of-pastors.html" media-type="application/xhtml+xml" />
+<item id="chapter-023" href="OEBPS/chapter-023-slug-23-the-ordination-and-installation-of-ministers.html" media-type="application/xhtml+xml" />
+<item id="chapter-024" href="OEBPS/chapter-024-slug-24-the-pastoral-relations.html" media-type="application/xhtml+xml" />
+<item id="chapter-025" href="OEBPS/chapter-025-slug-25-the-dissolution-of-the-pastoral-relation.html" media-type="application/xhtml+xml" />
+<item id="chapter-026" href="OEBPS/chapter-026-slug-26-election-ordination-and-installation-of-ruling-elders-and-deacons.html" media-type="application/xhtml+xml" />
+<item id="chapter-027" href="OEBPS/chapter-027-slug-27-congregational-meetings.html" media-type="application/xhtml+xml" />
+<item id="chapter-028" href="OEBPS/chapter-028-slug-28-declaration-of-doctrine-and-policies-concerning-sexuality.html" media-type="application/xhtml+xml" />
+<item id="chapter-029" href="OEBPS/chapter-029-slug-29-amending-the-constitution-of-the-church.html" media-type="application/xhtml+xml" />
+<item id="part-002" href="OEBPS/part-002-the-rules-of-discipline.html" media-type="application/xhtml+xml" />
+<item id="chapter-030" href="OEBPS/chapter-030-slug-30-discipline-its-nature-subjects-and-ends.html" media-type="application/xhtml+xml" />
+<item id="chapter-031" href="OEBPS/chapter-031-slug-31-discipline-of-non-communing-members.html" media-type="application/xhtml+xml" />
+<item id="chapter-032" href="OEBPS/chapter-032-slug-32-offenses.html" media-type="application/xhtml+xml" />
+<item id="chapter-033" href="OEBPS/chapter-033-slug-33-church-censures.html" media-type="application/xhtml+xml" />
+<item id="chapter-034" href="OEBPS/chapter-034-slug-34-the-parties-in-cases-of-process.html" media-type="application/xhtml+xml" />
+<item id="chapter-035" href="OEBPS/chapter-035-slug-35-general-provisions-applicable-to-all-cases-of-process.html" media-type="application/xhtml+xml" />
+<item id="chapter-036" href="OEBPS/chapter-036-slug-36-special-rules-pertaining-to-process-before-sessions.html" media-type="application/xhtml+xml" />
+<item id="chapter-037" href="OEBPS/chapter-037-slug-37-special-rules-pertaining-to-process-against-a-minister.html" media-type="application/xhtml+xml" />
+<item id="chapter-038" href="OEBPS/chapter-038-slug-38-evidence.html" media-type="application/xhtml+xml" />
+<item id="chapter-039" href="OEBPS/chapter-039-slug-39-the-infliction-of-church-censures.html" media-type="application/xhtml+xml" />
+<item id="chapter-040" href="OEBPS/chapter-040-slug-40-the-removal-of-censure.html" media-type="application/xhtml+xml" />
+<item id="chapter-041" href="OEBPS/chapter-041-slug-41-cases-without-process.html" media-type="application/xhtml+xml" />
+<item id="chapter-042" href="OEBPS/chapter-042-slug-42-modes-in-which-the-proceedings-of-lower-courts-come-under-the-supervision-of-higher-courts.html" media-type="application/xhtml+xml" />
+<item id="chapter-043" href="OEBPS/chapter-043-slug-43-general-review-and-control.html" media-type="application/xhtml+xml" />
+<item id="chapter-044" href="OEBPS/chapter-044-slug-44-references.html" media-type="application/xhtml+xml" />
+<item id="chapter-045" href="OEBPS/chapter-045-slug-45-appeals.html" media-type="application/xhtml+xml" />
+<item id="chapter-046" href="OEBPS/chapter-046-slug-46-complaints.html" media-type="application/xhtml+xml" />
+<item id="chapter-047" href="OEBPS/chapter-047-slug-47-voting-in-appeals-and-complaints.html" media-type="application/xhtml+xml" />
+<item id="chapter-048" href="OEBPS/chapter-048-slug-48-dissents-protests-and-objections.html" media-type="application/xhtml+xml" />
+<item id="chapter-049" href="OEBPS/chapter-049-slug-49-jurisdiction.html" media-type="application/xhtml+xml" />
+<item id="part-003" href="OEBPS/part-003-directory-for-the-worship-of-god.html" media-type="application/xhtml+xml" />
+<item id="chapter-050" href="OEBPS/chapter-050-preface-to-the-directory.html" media-type="application/xhtml+xml" />
+<item id="chapter-051" href="OEBPS/chapter-051-slug-50-the-principles-of-public-worship.html" media-type="application/xhtml+xml" />
+<item id="chapter-052" href="OEBPS/chapter-052-slug-51-elements-of-ordinary-public-worship.html" media-type="application/xhtml+xml" />
+<item id="chapter-053" href="OEBPS/chapter-053-slug-52-the-administration-of-the-sacraments.html" media-type="application/xhtml+xml" />
+<item id="chapter-054" href="OEBPS/chapter-054-slug-53-public-reception-of-church-members.html" media-type="application/xhtml+xml" />
+<item id="chapter-055" href="OEBPS/chapter-055-slug-54-other-occasions-of-public-worship.html" media-type="application/xhtml+xml" />
+<item id="chapter-056" href="OEBPS/chapter-056-slug-55-forms-for-particular-worship-services-ceremonies-and-creeds.html" media-type="application/xhtml+xml" />
+<item id="back-matter-001" href="OEBPS/back-matter-001-appendices.html" media-type="application/xhtml+xml" />
+<item id="back-matter-002" href="OEBPS/back-matter-002-appendix-2-original-texts-of-liturgical-forms.html" media-type="application/xhtml+xml" />
+<item id="cover-image" href="OEBPS/assets/BCO_Cover3.png" media-type="image/png" />
+<item id="media-CormorantGaramond-Bold" href="OEBPS/assets/CormorantGaramond-Bold.ttf" media-type="application/x-font-ttf" />
+<item id="media-CormorantGaramond-BoldItalic" href="OEBPS/assets/CormorantGaramond-BoldItalic.ttf" media-type="application/x-font-ttf" />
+<item id="media-CormorantGaramond-Italic" href="OEBPS/assets/CormorantGaramond-Italic.ttf" media-type="application/x-font-ttf" />
+<item id="media-CormorantGaramond-Regular" href="OEBPS/assets/CormorantGaramond-Regular.ttf" media-type="application/x-font-ttf" />
+<item id="media-Lora-Bold" href="OEBPS/assets/Lora-Bold.ttf" media-type="application/x-font-ttf" />
+<item id="media-Lora-BoldItalic" href="OEBPS/assets/Lora-BoldItalic.ttf" media-type="application/x-font-ttf" />
+<item id="media-Lora-Italic" href="OEBPS/assets/Lora-Italic.ttf" media-type="application/x-font-ttf" />
+<item id="media-Lora-Regular" href="OEBPS/assets/Lora-Regular.ttf" media-type="application/x-font-ttf" />
+<item id="media-icon-audio" href="OEBPS/assets/icon-audio.png" media-type="image/png" />
+<item id="media-icon-interactive" href="OEBPS/assets/icon-interactive.png" media-type="image/png" />
+<item id="media-icon-video" href="OEBPS/assets/icon-video.png" media-type="image/png" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="stylesheet" href="OEBPS/mcluhan.css"  media-type="text/css" />	</manifest>
+
+
+	<spine toc="ncx">
+		<itemref idref="front-cover" linear="yes" />
+<itemref idref="title-page" linear="yes" />
+<itemref idref="copyright" linear="yes" />
+<itemref idref="table-of-contents" linear="yes" />
+<itemref idref="front-matter-001" linear="yes" />
+<itemref idref="part-001" linear="yes" />
+<itemref idref="chapter-001" linear="yes" />
+<itemref idref="chapter-002" linear="yes" />
+<itemref idref="chapter-003" linear="yes" />
+<itemref idref="chapter-004" linear="yes" />
+<itemref idref="chapter-005" linear="yes" />
+<itemref idref="chapter-006" linear="yes" />
+<itemref idref="chapter-007" linear="yes" />
+<itemref idref="chapter-008" linear="yes" />
+<itemref idref="chapter-009" linear="yes" />
+<itemref idref="chapter-010" linear="yes" />
+<itemref idref="chapter-011" linear="yes" />
+<itemref idref="chapter-012" linear="yes" />
+<itemref idref="chapter-013" linear="yes" />
+<itemref idref="chapter-014" linear="yes" />
+<itemref idref="chapter-015" linear="yes" />
+<itemref idref="chapter-016" linear="yes" />
+<itemref idref="chapter-017" linear="yes" />
+<itemref idref="chapter-018" linear="yes" />
+<itemref idref="chapter-019" linear="yes" />
+<itemref idref="chapter-020" linear="yes" />
+<itemref idref="chapter-021" linear="yes" />
+<itemref idref="chapter-022" linear="yes" />
+<itemref idref="chapter-023" linear="yes" />
+<itemref idref="chapter-024" linear="yes" />
+<itemref idref="chapter-025" linear="yes" />
+<itemref idref="chapter-026" linear="yes" />
+<itemref idref="chapter-027" linear="yes" />
+<itemref idref="chapter-028" linear="yes" />
+<itemref idref="chapter-029" linear="yes" />
+<itemref idref="part-002" linear="yes" />
+<itemref idref="chapter-030" linear="yes" />
+<itemref idref="chapter-031" linear="yes" />
+<itemref idref="chapter-032" linear="yes" />
+<itemref idref="chapter-033" linear="yes" />
+<itemref idref="chapter-034" linear="yes" />
+<itemref idref="chapter-035" linear="yes" />
+<itemref idref="chapter-036" linear="yes" />
+<itemref idref="chapter-037" linear="yes" />
+<itemref idref="chapter-038" linear="yes" />
+<itemref idref="chapter-039" linear="yes" />
+<itemref idref="chapter-040" linear="yes" />
+<itemref idref="chapter-041" linear="yes" />
+<itemref idref="chapter-042" linear="yes" />
+<itemref idref="chapter-043" linear="yes" />
+<itemref idref="chapter-044" linear="yes" />
+<itemref idref="chapter-045" linear="yes" />
+<itemref idref="chapter-046" linear="yes" />
+<itemref idref="chapter-047" linear="yes" />
+<itemref idref="chapter-048" linear="yes" />
+<itemref idref="chapter-049" linear="yes" />
+<itemref idref="part-003" linear="yes" />
+<itemref idref="chapter-050" linear="yes" />
+<itemref idref="chapter-051" linear="yes" />
+<itemref idref="chapter-052" linear="yes" />
+<itemref idref="chapter-053" linear="yes" />
+<itemref idref="chapter-054" linear="yes" />
+<itemref idref="chapter-055" linear="yes" />
+<itemref idref="chapter-056" linear="yes" />
+<itemref idref="back-matter-001" linear="yes" />
+<itemref idref="back-matter-002" linear="yes" />
+	</spine>
+
+
+	<guide>
+		<reference type="toc" title="Table of Contents" href="OEBPS/table-of-contents.html" />
+		<reference type="cover" title="cover" href="OEBPS/front-cover.html" />
+		<reference type="text" title="start" href="OEBPS/front-matter-001-preface.html" />
+	</guide>
+
+
+</package>
