@@ -47,11 +47,11 @@
 					<content src="OEBPS/part-001-main-body-2.html" />
 					
 					<navPoint id="chapter-001" playOrder="7">
-					<navLabel><text>1. The Doctrine Of Church Government</text></navLabel>
+					<navLabel><text>1. The Doctrine of Church Government</text></navLabel>
 					<content src="OEBPS/chapter-001-slug-1-the-doctrine-of-church-government.html" />
 					</navPoint>
 					<navPoint id="chapter-002" playOrder="8">
-					<navLabel><text>2. The King And Head Of The Church</text></navLabel>
+					<navLabel><text>2. The King and Head of the Church</text></navLabel>
 					<content src="OEBPS/chapter-002-slug-2-the-king-and-head-of-the-church.html" />
 					</navPoint>
 					<navPoint id="chapter-003" playOrder="9">
@@ -59,7 +59,7 @@
 					<content src="OEBPS/chapter-003-slug-3-the-visible-church-defined.html" />
 					</navPoint>
 					<navPoint id="chapter-004" playOrder="10">
-					<navLabel><text>4. The Nature And Extent Of Church Power</text></navLabel>
+					<navLabel><text>4. The Nature and Extent of Church Power</text></navLabel>
 					<content src="OEBPS/chapter-004-slug-4-the-nature-and-extent-of-church-power.html" />
 					</navPoint>
 					<navPoint id="chapter-005" playOrder="11">
@@ -67,7 +67,7 @@
 					<content src="OEBPS/chapter-005-slug-5-the-particular-church.html" />
 					</navPoint>
 					<navPoint id="chapter-006" playOrder="12">
-					<navLabel><text>6. The Organization Of A Particular Church</text></navLabel>
+					<navLabel><text>6. The Organization of a Particular Church</text></navLabel>
 					<content src="OEBPS/chapter-006-slug-6-the-organization-of-a-particular-church.html" />
 					</navPoint>
 					<navPoint id="chapter-007" playOrder="13">
@@ -79,7 +79,7 @@
 					<content src="OEBPS/chapter-008-slug-8-church-officers-general-classification.html" />
 					</navPoint>
 					<navPoint id="chapter-009" playOrder="15">
-					<navLabel><text>9. The Minister Of The Word</text></navLabel>
+					<navLabel><text>9. The Minister of the Word</text></navLabel>
 					<content src="OEBPS/chapter-009-slug-9-the-minister-of-the-word.html" />
 					</navPoint>
 					<navPoint id="chapter-010" playOrder="16">
@@ -91,7 +91,7 @@
 					<content src="OEBPS/chapter-011-slug-11-the-deacon.html" />
 					</navPoint>
 					<navPoint id="chapter-012" playOrder="18">
-					<navLabel><text>12. Church Courts—in General</text></navLabel>
+					<navLabel><text>12. Church Courts—In General</text></navLabel>
 					<content src="OEBPS/chapter-012-slug-12-church-courts-in-general.html" />
 					</navPoint>
 					<navPoint id="chapter-013" playOrder="19">
@@ -115,15 +115,15 @@
 					<content src="OEBPS/chapter-017-slug-17-ecclesiastical-commissions.html" />
 					</navPoint>
 					<navPoint id="chapter-018" playOrder="24">
-					<navLabel><text>18. Church Orders—the Doctrine Of Vocation</text></navLabel>
+					<navLabel><text>18. Church Orders—The Doctrine of Vocation</text></navLabel>
 					<content src="OEBPS/chapter-018-slug-18-church-orders-the-doctrine-of-vocation.html" />
 					</navPoint>
 					<navPoint id="chapter-019" playOrder="25">
-					<navLabel><text>19. The Doctrine Of Ordination</text></navLabel>
+					<navLabel><text>19. The Doctrine of Ordination</text></navLabel>
 					<content src="OEBPS/chapter-019-slug-19-the-doctrine-of-ordination.html" />
 					</navPoint>
 					<navPoint id="chapter-020" playOrder="26">
-					<navLabel><text>20. Candidates For The Gospel Ministry</text></navLabel>
+					<navLabel><text>20. Candidates for the Gospel Ministry</text></navLabel>
 					<content src="OEBPS/chapter-020-slug-20-candidates-for-the-gospel-ministry.html" />
 					</navPoint>
 					<navPoint id="chapter-021" playOrder="27">
@@ -135,7 +135,7 @@
 					<content src="OEBPS/chapter-022-slug-22-the-election-of-pastors.html" />
 					</navPoint>
 					<navPoint id="chapter-023" playOrder="29">
-					<navLabel><text>23. The Ordination And Installation Of Ministers</text></navLabel>
+					<navLabel><text>23. The Ordination and Installation of Ministers</text></navLabel>
 					<content src="OEBPS/chapter-023-slug-23-the-ordination-and-installation-of-ministers.html" />
 					</navPoint>
 					<navPoint id="chapter-024" playOrder="30">
@@ -143,11 +143,11 @@
 					<content src="OEBPS/chapter-024-slug-24-the-pastoral-relations.html" />
 					</navPoint>
 					<navPoint id="chapter-025" playOrder="31">
-					<navLabel><text>25. The Dissolution Of The Pastoral Relation</text></navLabel>
+					<navLabel><text>25. The Dissolution of the Pastoral Relation</text></navLabel>
 					<content src="OEBPS/chapter-025-slug-25-the-dissolution-of-the-pastoral-relation.html" />
 					</navPoint>
 					<navPoint id="chapter-026" playOrder="32">
-					<navLabel><text>26. Election, Ordination and Installation of Ruling Elders and Deacons</text></navLabel>
+					<navLabel><text>26. Election, Ordination, and Installation of Ruling Elders and Deacons</text></navLabel>
 					<content src="OEBPS/chapter-026-slug-26-election-ordination-and-installation-of-ruling-elders-and-deacons.html" />
 					</navPoint>
 					<navPoint id="chapter-027" playOrder="33">
@@ -159,7 +159,7 @@
 					<content src="OEBPS/chapter-028-slug-28-declaration-of-doctrine-and-policies-concerning-sexuality.html" />
 					</navPoint>
 					<navPoint id="chapter-029" playOrder="35">
-					<navLabel><text>29. Amending The Constitution Of The Church</text></navLabel>
+					<navLabel><text>29. Amending the Constitution of the Church</text></navLabel>
 					<content src="OEBPS/chapter-029-slug-29-amending-the-constitution-of-the-church.html" />
 					</navPoint></navPoint>
 					<navPoint id="part-002" playOrder="36">
@@ -167,11 +167,11 @@
 					<content src="OEBPS/part-002-the-rules-of-discipline.html" />
 					
 					<navPoint id="chapter-030" playOrder="37">
-					<navLabel><text>30. Discipline—Its Nature, Subjects, And Ends</text></navLabel>
+					<navLabel><text>30. Discipline—Its Nature, Subjects, and Ends</text></navLabel>
 					<content src="OEBPS/chapter-030-slug-30-discipline-its-nature-subjects-and-ends.html" />
 					</navPoint>
 					<navPoint id="chapter-031" playOrder="38">
-					<navLabel><text>31. Discipline Of Non-Communing Members</text></navLabel>
+					<navLabel><text>31. Discipline of Non-communing Members</text></navLabel>
 					<content src="OEBPS/chapter-031-slug-31-discipline-of-non-communing-members.html" />
 					</navPoint>
 					<navPoint id="chapter-032" playOrder="39">
@@ -183,19 +183,19 @@
 					<content src="OEBPS/chapter-033-slug-33-church-censures.html" />
 					</navPoint>
 					<navPoint id="chapter-034" playOrder="41">
-					<navLabel><text>34. The Parties In Cases Of Process</text></navLabel>
+					<navLabel><text>34. The Parties in Cases of Process</text></navLabel>
 					<content src="OEBPS/chapter-034-slug-34-the-parties-in-cases-of-process.html" />
 					</navPoint>
 					<navPoint id="chapter-035" playOrder="42">
-					<navLabel><text>35. General Provisions Applicable To All Cases Of Process</text></navLabel>
+					<navLabel><text>35. General Provisions Applicable to All Cases of Process</text></navLabel>
 					<content src="OEBPS/chapter-035-slug-35-general-provisions-applicable-to-all-cases-of-process.html" />
 					</navPoint>
 					<navPoint id="chapter-036" playOrder="43">
-					<navLabel><text>36. Special Rules Pertaining To Process Before Sessions</text></navLabel>
+					<navLabel><text>36. Special Rules Pertaining to Process before Sessions</text></navLabel>
 					<content src="OEBPS/chapter-036-slug-36-special-rules-pertaining-to-process-before-sessions.html" />
 					</navPoint>
 					<navPoint id="chapter-037" playOrder="44">
-					<navLabel><text>37. Special Rules Pertaining To Process Against A Minister</text></navLabel>
+					<navLabel><text>37. Special Rules Pertaining to Process against a Minister</text></navLabel>
 					<content src="OEBPS/chapter-037-slug-37-special-rules-pertaining-to-process-against-a-minister.html" />
 					</navPoint>
 					<navPoint id="chapter-038" playOrder="45">
@@ -203,23 +203,23 @@
 					<content src="OEBPS/chapter-038-slug-38-evidence.html" />
 					</navPoint>
 					<navPoint id="chapter-039" playOrder="46">
-					<navLabel><text>39. The Infliction Of Church Censures</text></navLabel>
+					<navLabel><text>39. The Infliction of Church Censures</text></navLabel>
 					<content src="OEBPS/chapter-039-slug-39-the-infliction-of-church-censures.html" />
 					</navPoint>
 					<navPoint id="chapter-040" playOrder="47">
-					<navLabel><text>40. The Removal Of Censure</text></navLabel>
+					<navLabel><text>40. The Removal of Censure</text></navLabel>
 					<content src="OEBPS/chapter-040-slug-40-the-removal-of-censure.html" />
 					</navPoint>
 					<navPoint id="chapter-041" playOrder="48">
-					<navLabel><text>41. Cases Without Process</text></navLabel>
+					<navLabel><text>41. Cases without Process</text></navLabel>
 					<content src="OEBPS/chapter-041-slug-41-cases-without-process.html" />
 					</navPoint>
 					<navPoint id="chapter-042" playOrder="49">
-					<navLabel><text>42. Modes In Which The Proceedings Of Lower Courts Come Under The Supervision Of Higher Courts</text></navLabel>
+					<navLabel><text>42. Modes in Which the Proceedings of Lower Courts Come Under the Supervision of Higher Courts</text></navLabel>
 					<content src="OEBPS/chapter-042-slug-42-modes-in-which-the-proceedings-of-lower-courts-come-under-the-supervision-of-higher-courts.html" />
 					</navPoint>
 					<navPoint id="chapter-043" playOrder="50">
-					<navLabel><text>43. General Review And Control</text></navLabel>
+					<navLabel><text>43. General Review and Control</text></navLabel>
 					<content src="OEBPS/chapter-043-slug-43-general-review-and-control.html" />
 					</navPoint>
 					<navPoint id="chapter-044" playOrder="51">
@@ -283,7 +283,7 @@
 					<content src="OEBPS/back-matter-001-appendices.html" />
 					</navPoint>
 					<navPoint id="back-matter-002" playOrder="66">
-					<navLabel><text>Appendix 2: Original texts of liturgical forms</text></navLabel>
+					<navLabel><text>Appendix 2: Original Texts of Liturgical Forms</text></navLabel>
 					<content src="OEBPS/back-matter-002-appendix-2-original-texts-of-liturgical-forms.html" />
 					</navPoint>
 					<navPoint id="back-matter-003" playOrder="67">

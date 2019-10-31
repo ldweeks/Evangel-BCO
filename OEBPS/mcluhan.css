@@ -399,7 +399,8 @@ dl dt {
   display: block;
   margin: 0 0 0 0;
   font-style: normal;
-  font-weight: bold; }
+  font-weight: bold;
+  color: initial; }
 
 dl dt dfn {
   font-style: normal;
@@ -544,37 +545,39 @@ table {
   hyphens: none;
   text-align: left;
   border-collapse: collapse;
-  border-top: 1px solid initial;
-  border-right: 0 none initial;
-  border-bottom: 1px solid initial;
-  border-left: 0 none initial; }
+  border-top: 1px solid #000;
+  border-right: 0 none #000;
+  border-bottom: 1px solid #000;
+  border-left: 0 none #000; }
   table p {
     text-align: left; }
   table caption {
     margin-bottom: 0.5em;
     font-weight: bold; }
   table.lines {
-    border-color: initial; }
+    border-color: #000; }
   table.lines tr {
-    border-top: 1px solid initial;
-    border-bottom: 1px solid initial;
-    border-color: initial; }
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-color: #000; }
   table.lines th {
-    border-color: initial; }
+    border-color: #000; }
   table.lines td {
-    border-color: initial; }
+    border-color: #000; }
   table.no-lines tr, table.no-lines td {
     border-top: 0;
     border-bottom: 0; }
   table.shaded {
     background-color: #eee; }
   table.border {
-    border: 1px solid initial; }
+    border: 1px solid #000; }
   table.no-border, table.no-border tbody, table.no-border th, table.no-border tr, table.no-border td, table.no-border tfoot, table.no-border thead {
     border-top: 0;
     border-right: 0;
     border-bottom: 0;
     border-left: 0; }
+  table.grid, table.grid tbody, table.grid th, table.grid tr, table.grid td, table.grid tfoot, table.grid thead {
+    border: 1px solid #000; }
   table.alignleft {
     float: left;
     margin-right: 1.5em; }
@@ -592,21 +595,20 @@ th {
   padding: 0.45em 0.45em 0.45em 0.45em;
   text-align: left;
   vertical-align: middle;
-  border-top: 0 none initial;
-  border-right: 0 none initial;
-  border-bottom: 0 none initial;
-  border-left: 0 none initial; }
+  border-top: 0 none #000;
+  border-right: 0 none #000;
+  border-bottom: 0 none #000;
+  border-left: 0 none #000; }
 
 td {
+  border: 0 none #000;
   padding: 0.45em 0.45em 0.45em 0.45em;
   text-align: left;
-  vertical-align: middle;
-  border: 0 none;
-  border-color: initial; }
+  vertical-align: middle; }
 
 tr {
-  border-top: 0 none initial;
-  border-bottom: 0 none initial; }
+  border-top: 0 none #000;
+  border-bottom: 0 none #000; }
 
 .twocolumn {
   margin-top: 1em;
@@ -655,7 +657,7 @@ tr {
   vertical-align: top; }
 
 .footnotes {
-  font-size: 0.8888888889em; }
+  font-size: 0.8888888889rem; }
 
 .fn-p, .fn_p {
   display: block;
@@ -1084,7 +1086,8 @@ figcaption, .wp-caption-text {
   margin-top: 0;
   text-align: left;
   text-transform: none;
-  text-indent: 0; }
+  text-indent: 0;
+  color: (epub: initial, prince: initial, web: #373d3f); }
 
 img {
   display: inline-block;
@@ -1093,6 +1096,11 @@ img {
   max-width: 100%;
   padding: 0;
   page-break-inside: avoid !important; }
+
+img.mathjax {
+  vertical-align: middle;
+  border: none;
+  background: none; }
 
 .wp-caption, .wp-nocaption {
   height: auto;
@@ -1250,11 +1258,11 @@ div.index .ugc {
       text-align: left;
       text-indent: 0; }
 
-div.dedication {
+div.dedication, section.dedication {
   margin-top: 2em;
   margin-right: 10%;
   margin-left: 10%; }
-  div.dedication p {
+  div.dedication p, section.dedication p {
     margin-bottom: 1em;
     font-family: 'Cormorant Garamond', serif;
     font-size: 1em;
@@ -1263,11 +1271,11 @@ div.dedication {
     line-height: 1.4em;
     text-align: center; }
 
-div.epigraph {
+div.epigraph, section.epigraph {
   margin-top: 2em;
   margin-right: 10%;
   margin-left: 10%; }
-  div.epigraph p {
+  div.epigraph p, section.epigraph p {
     margin-bottom: 1em;
     font-family: 'Lora', serif;
     font-size: 1em;
@@ -1395,7 +1403,7 @@ div.publisher-logo {
 
 h4.publisher {
   display: block;
-  float: bottom;
+  float: none;
   margin: 0 0 0.5em 0;
   font-family: 'Cormorant Garamond', serif;
   font-size: 0.9em;
@@ -1410,7 +1418,7 @@ h4.publisher {
   padding-bottom: 0; }
 
 h5.publisher-city {
-  float: bottom;
+  float: none;
   margin-top: 0;
   margin-left: 0;
   margin-right: 0;
@@ -1516,6 +1524,7 @@ h5.publisher-city {
     font-weight: bold;
     hyphens: none;
     text-align: left;
+    text-indent: 0;
     text-transform: uppercase;
     letter-spacing: normal;
     word-spacing: normal; }
@@ -1608,6 +1617,7 @@ h5.publisher-city {
     font-weight: bold;
     hyphens: none;
     text-align: left;
+    text-indent: 0;
     text-transform: uppercase;
     letter-spacing: normal;
     word-spacing: normal; }
@@ -1739,6 +1749,7 @@ h5.publisher-city {
     font-weight: bold;
     hyphens: none;
     text-align: left;
+    text-indent: 0;
     text-transform: uppercase;
     letter-spacing: normal;
     word-spacing: normal; }
@@ -1969,6 +1980,11 @@ h5.publisher-city {
     font-weight: normal;
     margin-top: 0.25em; }
 
+@media amzn-kf8 {
+  #toc .toc-chapter-title {
+    /* CSS property in content is not supported. Table of contents cannot be clicked. */
+    position: static; } }
+
 @media amzn-mobi {
   #toc {
     font-style: normal;
@@ -1980,6 +1996,10 @@ h5.publisher-city {
     font-size: 1em;
     font-style: normal;
     font-weight: normal; }
+
+  #toc .toc-chapter-title {
+    /* CSS property in content is not supported. Table of contents cannot be clicked. */
+    position: static; }
 
   span.chapter-author {
     display: none; }
