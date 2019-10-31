@@ -6,11 +6,11 @@
 		<dc:title>Evangel Presbytery Book of Church Order</dc:title>
 <dc:language>en</dc:language>
 <dc:identifier id="PrimaryID" opf:scheme="URI">http://evangel.pressbooks.com</dc:identifier>
-<dc:description>Adopted by Evangel Presbytery on June 6, 2019.&lt;br /&gt;&lt;em&gt;(Previous versions can be found &lt;a href=&quot;http://evangelpresbytery.com/bco-version-history/&quot;&gt;here&lt;/a&gt;.)&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;For more information, please visit &lt;a href=&quot;http://evangelpresbytery.com&quot;&gt;http://evangelpresbytery.com&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Download:&lt;/em&gt;&lt;br /&gt;&lt;a href=&quot;https://www.dropbox.com/s/wlbiz4q6naf0jre/Evangel-Presbytery-Book-of-Church-Order-1551721986.epub?dl=1&quot;&gt;EPUB&lt;/a&gt; | &lt;a href=&quot;https://www.dropbox.com/s/5mfti0ra96wze2j/Evangel-Presbytery-Book-of-Church-Order-1551721999.mobi?dl=1&quot;&gt;MOBI&lt;/a&gt; | &lt;a href=&quot;https://www.dropbox.com/s/flzw04l5pjiglw6/Evangel-Presbytery-Book-of-Church-Order-1551722024._print.pdf?dl=1&quot;&gt;PDF (print)&lt;/a&gt; | &lt;a href=&quot;https://www.dropbox.com/s/o6sgzapvfai6zyz/Evangel-Presbytery-Book-of-Church-Order-1551722012.pdf?dl=1&quot;&gt;PDF (with links)&lt;/a&gt;</dc:description>
+<dc:description>Adopted by Evangel Presbytery on October 3, 2019.&lt;br /&gt;Updated an Reissued on October 31, 2019.&lt;br /&gt;&lt;em&gt;(Previous versions can be found &lt;a href=&quot;https://evangelpresbytery.com/bco-version-history/&quot;&gt;here&lt;/a&gt;.)&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;For more information, please visit &lt;a href=&quot;http://evangelpresbytery.com&quot;&gt;http://evangelpresbytery.com&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;</dc:description>
 <dc:creator opf:role="aut" opf:file-as="Presbytery, Evangel">Evangel Presbytery</dc:creator>
 <dc:contributor opf:role="aut">Evangel Presbytery</dc:contributor>
 <dc:rights>Copyright &#169; 2019 by Evangel Presbytery. Evangel Presbytery Book of Church Order Copyright © 2019 by Evangel Presbytery. All Rights Reserved.</dc:rights>
-<dc:date opf:event="publication">2019-06-06</dc:date>
+<dc:date opf:event="publication">2019-10-31</dc:date>
 <meta name="cover" content="cover-image" />
 	</metadata>
 
@@ -74,16 +74,45 @@
 <item id="chapter-049" href="OEBPS/chapter-049-slug-49-jurisdiction.html" media-type="application/xhtml+xml" />
 <item id="part-003" href="OEBPS/part-003-directory-for-the-worship-of-god.html" media-type="application/xhtml+xml" />
 <item id="chapter-050" href="OEBPS/chapter-050-preface-to-the-directory.html" media-type="application/xhtml+xml" />
-<item id="chapter-051" href="OEBPS/chapter-051-slug-50-the-principles-of-public-worship.html" media-type="application/xhtml+xml" />
-<item id="chapter-052" href="OEBPS/chapter-052-slug-51-elements-of-ordinary-public-worship.html" media-type="application/xhtml+xml" />
-<item id="chapter-053" href="OEBPS/chapter-053-slug-52-the-administration-of-the-sacraments.html" media-type="application/xhtml+xml" />
-<item id="chapter-054" href="OEBPS/chapter-054-slug-53-public-reception-of-church-members.html" media-type="application/xhtml+xml" />
-<item id="chapter-055" href="OEBPS/chapter-055-slug-54-other-occasions-of-public-worship.html" media-type="application/xhtml+xml" />
-<item id="chapter-056" href="OEBPS/chapter-056-slug-55-forms-for-particular-worship-services-ceremonies-and-creeds.html" media-type="application/xhtml+xml" />
-<item id="back-matter-001" href="OEBPS/back-matter-001-appendices.html" media-type="application/xhtml+xml" />
-<item id="back-matter-002" href="OEBPS/back-matter-002-appendix-2-original-texts-of-liturgical-forms.html" media-type="application/xhtml+xml" />
-<item id="back-matter-003" href="OEBPS/back-matter-003-updates.html" media-type="application/xhtml+xml" />
-<item id="cover-image" href="OEBPS/assets/2019.06.06-BCO_Cover.png" media-type="image/png" />
+<item id="chapter-051" href="OEBPS/chapter-051-slug-50-gods-institution-of-public-worship.html" media-type="application/xhtml+xml" />
+<item id="chapter-052" href="OEBPS/chapter-052-slug-51-the-nature-of-public-worship.html" media-type="application/xhtml+xml" />
+<item id="chapter-053" href="OEBPS/chapter-053-slug-52-the-parts-of-public-worship.html" media-type="application/xhtml+xml" />
+<item id="chapter-054" href="OEBPS/chapter-054-slug-53-the-oversight-and-conduct-of-public-worship.html" media-type="application/xhtml+xml" />
+<item id="chapter-055" href="OEBPS/chapter-055-slug-54-elements-of-ordinary-public-worship-from-god-to-the-people.html" media-type="application/xhtml+xml" />
+<item id="chapter-056" href="OEBPS/chapter-056-slug-54-elements-of-ordinary-public-worship-from-the-people-to-god.html" media-type="application/xhtml+xml" />
+<item id="chapter-057" href="OEBPS/chapter-057-slug-56-the-administration-of-the-sacraments-general-provisions.html" media-type="application/xhtml+xml" />
+<item id="chapter-058" href="OEBPS/chapter-058-slug-57-the-baptism-of-infants.html" media-type="application/xhtml+xml" />
+<item id="chapter-059" href="OEBPS/chapter-059-slug-58-a-note-on-infant-dedication.html" media-type="application/xhtml+xml" />
+<item id="chapter-060" href="OEBPS/chapter-060-slug-59-the-baptism-of-those-professing-faith.html" media-type="application/xhtml+xml" />
+<item id="chapter-061" href="OEBPS/chapter-061-slug-60-the-lords-supper.html" media-type="application/xhtml+xml" />
+<item id="chapter-062" href="OEBPS/chapter-062-slug-61-public-reception-of-church-members-general-provisions.html" media-type="application/xhtml+xml" />
+<item id="chapter-063" href="OEBPS/chapter-063-slug-62-reception-into-full-communion-of-non-communing-members-by-profession-of-faith.html" media-type="application/xhtml+xml" />
+<item id="chapter-064" href="OEBPS/chapter-064-slug-63-reception-by-letter-of-transfer-from-another-church-within-evangel-presbytery.html" media-type="application/xhtml+xml" />
+<item id="chapter-065" href="OEBPS/chapter-065-slug-64-reception-by-letter-of-transfer-from-another-church-of-like-faith-and-practice.html" media-type="application/xhtml+xml" />
+<item id="chapter-066" href="OEBPS/chapter-066-slug-65-reception-by-reaffirmation-of-faith.html" media-type="application/xhtml+xml" />
+<item id="chapter-067" href="OEBPS/chapter-067-slug-66-reception-of-new-members-by-public-profession-of-faith.html" media-type="application/xhtml+xml" />
+<item id="chapter-068" href="OEBPS/chapter-068-slug-67-other-occasions-of-public-worship.html" media-type="application/xhtml+xml" />
+<item id="chapter-069" href="OEBPS/chapter-069-slug-68-prayer-meetings.html" media-type="application/xhtml+xml" />
+<item id="chapter-070" href="OEBPS/chapter-070-slug-69-prayer-and-fasting.html" media-type="application/xhtml+xml" />
+<item id="chapter-071" href="OEBPS/chapter-071-slug-70-thanksgiving.html" media-type="application/xhtml+xml" />
+<item id="chapter-072" href="OEBPS/chapter-072-slug-71-home-fellowship-groups.html" media-type="application/xhtml+xml" />
+<item id="chapter-073" href="OEBPS/chapter-073-slug-72-the-solemnization-of-marriage.html" media-type="application/xhtml+xml" />
+<item id="chapter-074" href="OEBPS/chapter-074-slug-73-the-visitation-of-the-sick.html" media-type="application/xhtml+xml" />
+<item id="chapter-075" href="OEBPS/chapter-075-slug-74-worship-in-the-home.html" media-type="application/xhtml+xml" />
+<item id="chapter-076" href="OEBPS/chapter-076-slug-75-suggested-form-for-the-solemnization-of-marriage.html" media-type="application/xhtml+xml" />
+<item id="chapter-077" href="OEBPS/chapter-077-slug-76-suggested-form-for-a-funeral.html" media-type="application/xhtml+xml" />
+<item id="chapter-078" href="OEBPS/chapter-078-slug-77-suggested-form-for-a-childs-funeral.html" media-type="application/xhtml+xml" />
+<item id="chapter-079" href="OEBPS/chapter-079-slug-78-suggested-form-for-a-graveside-committal-service.html" media-type="application/xhtml+xml" />
+<item id="chapter-080" href="OEBPS/chapter-080-slug-79-suggested-form-for-infant-dedication.html" media-type="application/xhtml+xml" />
+<item id="chapter-081" href="OEBPS/chapter-081-slug-80-the-creeds.html" media-type="application/xhtml+xml" />
+<item id="part-004" href="OEBPS/part-004-appendix-1-presbytery-forms.html" media-type="application/xhtml+xml" />
+<item id="chapter-082" href="OEBPS/chapter-082-form-of-ministerial-obligation.html" media-type="application/xhtml+xml" />
+<item id="part-005" href="OEBPS/part-005-appendix-2-original-texts-of-liturgical-forms.html" media-type="application/xhtml+xml" />
+<item id="chapter-083" href="OEBPS/chapter-083-slug-1-calvins-service-of-the-lords-supper-1542-1566.html" media-type="application/xhtml+xml" />
+<item id="chapter-084" href="OEBPS/chapter-084-slug-2-the-form-of-solemnization-of-matrimony-1549-book-of-common-prayer.html" media-type="application/xhtml+xml" />
+<item id="chapter-085" href="OEBPS/chapter-085-slug-3-the-order-for-the-burial-of-the-dead-1549-book-of-common-prayer.html" media-type="application/xhtml+xml" />
+<item id="back-matter-001" href="OEBPS/back-matter-001-updates.html" media-type="application/xhtml+xml" />
+<item id="cover-image" href="OEBPS/assets/2019.10.31-BCO_Cover.png" media-type="image/png" />
 <item id="media-CormorantGaramond-Bold" href="OEBPS/assets/CormorantGaramond-Bold.ttf" media-type="application/x-font-ttf" />
 <item id="media-CormorantGaramond-BoldItalic" href="OEBPS/assets/CormorantGaramond-BoldItalic.ttf" media-type="application/x-font-ttf" />
 <item id="media-CormorantGaramond-Italic" href="OEBPS/assets/CormorantGaramond-Italic.ttf" media-type="application/x-font-ttf" />
@@ -164,9 +193,38 @@
 <itemref idref="chapter-054" linear="yes" />
 <itemref idref="chapter-055" linear="yes" />
 <itemref idref="chapter-056" linear="yes" />
+<itemref idref="chapter-057" linear="yes" />
+<itemref idref="chapter-058" linear="yes" />
+<itemref idref="chapter-059" linear="yes" />
+<itemref idref="chapter-060" linear="yes" />
+<itemref idref="chapter-061" linear="yes" />
+<itemref idref="chapter-062" linear="yes" />
+<itemref idref="chapter-063" linear="yes" />
+<itemref idref="chapter-064" linear="yes" />
+<itemref idref="chapter-065" linear="yes" />
+<itemref idref="chapter-066" linear="yes" />
+<itemref idref="chapter-067" linear="yes" />
+<itemref idref="chapter-068" linear="yes" />
+<itemref idref="chapter-069" linear="yes" />
+<itemref idref="chapter-070" linear="yes" />
+<itemref idref="chapter-071" linear="yes" />
+<itemref idref="chapter-072" linear="yes" />
+<itemref idref="chapter-073" linear="yes" />
+<itemref idref="chapter-074" linear="yes" />
+<itemref idref="chapter-075" linear="yes" />
+<itemref idref="chapter-076" linear="yes" />
+<itemref idref="chapter-077" linear="yes" />
+<itemref idref="chapter-078" linear="yes" />
+<itemref idref="chapter-079" linear="yes" />
+<itemref idref="chapter-080" linear="yes" />
+<itemref idref="chapter-081" linear="yes" />
+<itemref idref="part-004" linear="yes" />
+<itemref idref="chapter-082" linear="yes" />
+<itemref idref="part-005" linear="yes" />
+<itemref idref="chapter-083" linear="yes" />
+<itemref idref="chapter-084" linear="yes" />
+<itemref idref="chapter-085" linear="yes" />
 <itemref idref="back-matter-001" linear="yes" />
-<itemref idref="back-matter-002" linear="yes" />
-<itemref idref="back-matter-003" linear="yes" />
 	</spine>
 
 

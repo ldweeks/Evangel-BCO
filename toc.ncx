@@ -255,39 +255,155 @@
 					<content src="OEBPS/chapter-050-preface-to-the-directory.html" />
 					</navPoint>
 					<navPoint id="chapter-051" playOrder="59">
-					<navLabel><text>50. The Principles of Public Worship</text></navLabel>
-					<content src="OEBPS/chapter-051-slug-50-the-principles-of-public-worship.html" />
+					<navLabel><text>50. God’s Institution of Public Worship</text></navLabel>
+					<content src="OEBPS/chapter-051-slug-50-gods-institution-of-public-worship.html" />
 					</navPoint>
 					<navPoint id="chapter-052" playOrder="60">
-					<navLabel><text>51. Elements of Ordinary Public Worship</text></navLabel>
-					<content src="OEBPS/chapter-052-slug-51-elements-of-ordinary-public-worship.html" />
+					<navLabel><text>51. The Nature of Public Worship</text></navLabel>
+					<content src="OEBPS/chapter-052-slug-51-the-nature-of-public-worship.html" />
 					</navPoint>
 					<navPoint id="chapter-053" playOrder="61">
-					<navLabel><text>52. The Administration of the Sacraments</text></navLabel>
-					<content src="OEBPS/chapter-053-slug-52-the-administration-of-the-sacraments.html" />
+					<navLabel><text>52. The Parts of Public Worship</text></navLabel>
+					<content src="OEBPS/chapter-053-slug-52-the-parts-of-public-worship.html" />
 					</navPoint>
 					<navPoint id="chapter-054" playOrder="62">
-					<navLabel><text>53. Public Reception of Church Members</text></navLabel>
-					<content src="OEBPS/chapter-054-slug-53-public-reception-of-church-members.html" />
+					<navLabel><text>53. The Oversight and Conduct of Public Worship</text></navLabel>
+					<content src="OEBPS/chapter-054-slug-53-the-oversight-and-conduct-of-public-worship.html" />
 					</navPoint>
 					<navPoint id="chapter-055" playOrder="63">
-					<navLabel><text>54. Other Occasions of Public Worship</text></navLabel>
-					<content src="OEBPS/chapter-055-slug-54-other-occasions-of-public-worship.html" />
+					<navLabel><text>54. Elements of Ordinary Public Worship—From God to the People</text></navLabel>
+					<content src="OEBPS/chapter-055-slug-54-elements-of-ordinary-public-worship-from-god-to-the-people.html" />
 					</navPoint>
 					<navPoint id="chapter-056" playOrder="64">
-					<navLabel><text>55. Forms for Particular Worship Services, Ceremonies, and Creeds</text></navLabel>
-					<content src="OEBPS/chapter-056-slug-55-forms-for-particular-worship-services-ceremonies-and-creeds.html" />
+					<navLabel><text>55. Elements of Ordinary Public Worship—From the People to God</text></navLabel>
+					<content src="OEBPS/chapter-056-slug-54-elements-of-ordinary-public-worship-from-the-people-to-god.html" />
+					</navPoint>
+					<navPoint id="chapter-057" playOrder="65">
+					<navLabel><text>56. The Administration of the Sacraments—General Provisions</text></navLabel>
+					<content src="OEBPS/chapter-057-slug-56-the-administration-of-the-sacraments-general-provisions.html" />
+					</navPoint>
+					<navPoint id="chapter-058" playOrder="66">
+					<navLabel><text>57. The Baptism of Infants</text></navLabel>
+					<content src="OEBPS/chapter-058-slug-57-the-baptism-of-infants.html" />
+					</navPoint>
+					<navPoint id="chapter-059" playOrder="67">
+					<navLabel><text>58. A Note on Infant Dedication</text></navLabel>
+					<content src="OEBPS/chapter-059-slug-58-a-note-on-infant-dedication.html" />
+					</navPoint>
+					<navPoint id="chapter-060" playOrder="68">
+					<navLabel><text>59. The Baptism of Those Professing Faith</text></navLabel>
+					<content src="OEBPS/chapter-060-slug-59-the-baptism-of-those-professing-faith.html" />
+					</navPoint>
+					<navPoint id="chapter-061" playOrder="69">
+					<navLabel><text>60. The Lord's Supper</text></navLabel>
+					<content src="OEBPS/chapter-061-slug-60-the-lords-supper.html" />
+					</navPoint>
+					<navPoint id="chapter-062" playOrder="70">
+					<navLabel><text>61. Public Reception of Church Members—General Provisions</text></navLabel>
+					<content src="OEBPS/chapter-062-slug-61-public-reception-of-church-members-general-provisions.html" />
+					</navPoint>
+					<navPoint id="chapter-063" playOrder="71">
+					<navLabel><text>62. Reception into Full Communion of Non-communing Members by Profession of Faith</text></navLabel>
+					<content src="OEBPS/chapter-063-slug-62-reception-into-full-communion-of-non-communing-members-by-profession-of-faith.html" />
+					</navPoint>
+					<navPoint id="chapter-064" playOrder="72">
+					<navLabel><text>63. Reception by Letter of Transfer from Another Church within Evangel Presbytery</text></navLabel>
+					<content src="OEBPS/chapter-064-slug-63-reception-by-letter-of-transfer-from-another-church-within-evangel-presbytery.html" />
+					</navPoint>
+					<navPoint id="chapter-065" playOrder="73">
+					<navLabel><text>64. Reception by Letter of Transfer from Another Church of Like Faith and Practice</text></navLabel>
+					<content src="OEBPS/chapter-065-slug-64-reception-by-letter-of-transfer-from-another-church-of-like-faith-and-practice.html" />
+					</navPoint>
+					<navPoint id="chapter-066" playOrder="74">
+					<navLabel><text>65. Reception by Reaffirmation of Faith</text></navLabel>
+					<content src="OEBPS/chapter-066-slug-65-reception-by-reaffirmation-of-faith.html" />
+					</navPoint>
+					<navPoint id="chapter-067" playOrder="75">
+					<navLabel><text>66. Reception of New Members by Public Profession of Faith</text></navLabel>
+					<content src="OEBPS/chapter-067-slug-66-reception-of-new-members-by-public-profession-of-faith.html" />
+					</navPoint>
+					<navPoint id="chapter-068" playOrder="76">
+					<navLabel><text>67. Other Occasions of Public Worship</text></navLabel>
+					<content src="OEBPS/chapter-068-slug-67-other-occasions-of-public-worship.html" />
+					</navPoint>
+					<navPoint id="chapter-069" playOrder="77">
+					<navLabel><text>68. Prayer Meetings</text></navLabel>
+					<content src="OEBPS/chapter-069-slug-68-prayer-meetings.html" />
+					</navPoint>
+					<navPoint id="chapter-070" playOrder="78">
+					<navLabel><text>69. Prayer and Fasting</text></navLabel>
+					<content src="OEBPS/chapter-070-slug-69-prayer-and-fasting.html" />
+					</navPoint>
+					<navPoint id="chapter-071" playOrder="79">
+					<navLabel><text>70. Thanksgiving</text></navLabel>
+					<content src="OEBPS/chapter-071-slug-70-thanksgiving.html" />
+					</navPoint>
+					<navPoint id="chapter-072" playOrder="80">
+					<navLabel><text>71. Home Fellowship Groups</text></navLabel>
+					<content src="OEBPS/chapter-072-slug-71-home-fellowship-groups.html" />
+					</navPoint>
+					<navPoint id="chapter-073" playOrder="81">
+					<navLabel><text>72. The Solemnization of Marriage</text></navLabel>
+					<content src="OEBPS/chapter-073-slug-72-the-solemnization-of-marriage.html" />
+					</navPoint>
+					<navPoint id="chapter-074" playOrder="82">
+					<navLabel><text>73. The Visitation of the Sick</text></navLabel>
+					<content src="OEBPS/chapter-074-slug-73-the-visitation-of-the-sick.html" />
+					</navPoint>
+					<navPoint id="chapter-075" playOrder="83">
+					<navLabel><text>74. Worship in the Home</text></navLabel>
+					<content src="OEBPS/chapter-075-slug-74-worship-in-the-home.html" />
+					</navPoint>
+					<navPoint id="chapter-076" playOrder="84">
+					<navLabel><text>75. Suggested Form for the Solemnization of Marriage</text></navLabel>
+					<content src="OEBPS/chapter-076-slug-75-suggested-form-for-the-solemnization-of-marriage.html" />
+					</navPoint>
+					<navPoint id="chapter-077" playOrder="85">
+					<navLabel><text>76. Suggested Form for a Funeral</text></navLabel>
+					<content src="OEBPS/chapter-077-slug-76-suggested-form-for-a-funeral.html" />
+					</navPoint>
+					<navPoint id="chapter-078" playOrder="86">
+					<navLabel><text>77. Suggested Form for a Child’s Funeral</text></navLabel>
+					<content src="OEBPS/chapter-078-slug-77-suggested-form-for-a-childs-funeral.html" />
+					</navPoint>
+					<navPoint id="chapter-079" playOrder="87">
+					<navLabel><text>78. Suggested Form for a Graveside Committal Service</text></navLabel>
+					<content src="OEBPS/chapter-079-slug-78-suggested-form-for-a-graveside-committal-service.html" />
+					</navPoint>
+					<navPoint id="chapter-080" playOrder="88">
+					<navLabel><text>79. Suggested Form for Infant Dedication</text></navLabel>
+					<content src="OEBPS/chapter-080-slug-79-suggested-form-for-infant-dedication.html" />
+					</navPoint>
+					<navPoint id="chapter-081" playOrder="89">
+					<navLabel><text>80. The Creeds</text></navLabel>
+					<content src="OEBPS/chapter-081-slug-80-the-creeds.html" />
 					</navPoint></navPoint>
-					<navPoint id="back-matter-001" playOrder="65">
-					<navLabel><text>Appendix 1: Form of Ministerial Obligation</text></navLabel>
-					<content src="OEBPS/back-matter-001-appendices.html" />
-					</navPoint>
-					<navPoint id="back-matter-002" playOrder="66">
+					<navPoint id="part-004" playOrder="90">
+					<navLabel><text>Appendix 1: Presbytery Forms</text></navLabel>
+					<content src="OEBPS/part-004-appendix-1-presbytery-forms.html" />
+					
+					<navPoint id="chapter-082" playOrder="91">
+					<navLabel><text>Form of Ministerial Obligation</text></navLabel>
+					<content src="OEBPS/chapter-082-form-of-ministerial-obligation.html" />
+					</navPoint></navPoint>
+					<navPoint id="part-005" playOrder="92">
 					<navLabel><text>Appendix 2: Original Texts of Liturgical Forms</text></navLabel>
-					<content src="OEBPS/back-matter-002-appendix-2-original-texts-of-liturgical-forms.html" />
+					<content src="OEBPS/part-005-appendix-2-original-texts-of-liturgical-forms.html" />
+					
+					<navPoint id="chapter-083" playOrder="93">
+					<navLabel><text>1. Calvin’s Service of the Lord’s Supper (1542, 1566)</text></navLabel>
+					<content src="OEBPS/chapter-083-slug-1-calvins-service-of-the-lords-supper-1542-1566.html" />
 					</navPoint>
-					<navPoint id="back-matter-003" playOrder="67">
+					<navPoint id="chapter-084" playOrder="94">
+					<navLabel><text>2. The Form of Solemnization of Matrimony (1549 Book of Common Prayer)</text></navLabel>
+					<content src="OEBPS/chapter-084-slug-2-the-form-of-solemnization-of-matrimony-1549-book-of-common-prayer.html" />
+					</navPoint>
+					<navPoint id="chapter-085" playOrder="95">
+					<navLabel><text>3. The Order for the Burial of the Dead (1549 Book of Common Prayer)</text></navLabel>
+					<content src="OEBPS/chapter-085-slug-3-the-order-for-the-burial-of-the-dead-1549-book-of-common-prayer.html" />
+					</navPoint></navPoint>
+					<navPoint id="back-matter-001" playOrder="96">
 					<navLabel><text>Updates</text></navLabel>
-					<content src="OEBPS/back-matter-003-updates.html" />
+					<content src="OEBPS/back-matter-001-updates.html" />
 					</navPoint>	</navMap>
 </ncx>
