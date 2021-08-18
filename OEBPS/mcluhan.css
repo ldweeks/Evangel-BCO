@@ -142,7 +142,7 @@ div.sidebar {
   background-color: initial;
   border-color: initial; }
 
-.textbox.shaded, .bcc-box.shaded {
+.textbox.shaded, .shaded.bcc-box {
   background-color: #eee; }
 
 .shaded {
@@ -202,90 +202,84 @@ body * {
 h1, h2, h3, h4, h5, h6 {
   hyphens: none;
   page-break-after: avoid; }
-
-h1 {
-  border-bottom: none 0 initial;
-  margin-top: 2.1428571429em;
-  margin-bottom: 1.4285714286em;
-  padding-bottom: 0;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.80225em;
-  font-style: normal;
-  font-weight: bold;
-  text-align: left;
-  text-transform: none;
-  letter-spacing: normal;
-  word-spacing: normal; }
-
-h2 {
-  border-bottom: none 0 initial;
-  margin-top: 2.1428571429em;
-  margin-bottom: 1.4285714286em;
-  padding-bottom: 0;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.602em;
-  font-style: normal;
-  font-weight: bold;
-  text-align: left;
-  text-transform: none;
-  letter-spacing: normal;
-  word-spacing: normal; }
-
-h3 {
-  border-bottom: none 0 initial;
-  margin-top: 2.1428571429em;
-  margin-bottom: 1.4285714286em;
-  padding-bottom: 0;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.602em;
-  font-style: normal;
-  font-weight: normal;
-  text-align: left;
-  text-transform: none;
-  letter-spacing: normal;
-  word-spacing: normal; }
-
-h4 {
-  border-bottom: none 0 initial;
-  margin-top: 2.1428571429em;
-  margin-bottom: 1.4285714286em;
-  padding-bottom: 0;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.42425em;
-  font-style: italic;
-  font-weight: normal;
-  text-align: left;
-  text-transform: none;
-  letter-spacing: normal;
-  word-spacing: normal; }
-
-h5 {
-  border-bottom: none 0 initial;
-  margin-top: 2.1428571429em;
-  margin-bottom: 1.4285714286em;
-  padding-bottom: 0;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.265625em;
-  font-style: normal;
-  font-weight: normal;
-  text-align: left;
-  text-transform: none;
-  letter-spacing: normal;
-  word-spacing: normal; }
-
-h6 {
-  border-bottom: none 0 initial;
-  margin-top: 2.1428571429em;
-  margin-bottom: 1.4285714286em;
-  padding-bottom: 0;
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.265625em;
-  font-style: italic;
-  font-weight: normal;
-  text-align: left;
-  text-transform: none;
-  letter-spacing: normal;
-  word-spacing: normal; }
+  h1 {
+    border-bottom: none 0 initial;
+    margin-top: 2.1428571429em;
+    margin-bottom: 1.4285714286em;
+    padding-bottom: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.80225em;
+    font-style: normal;
+    font-weight: bold;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: normal;
+    word-spacing: normal; }
+  h2 {
+    border-bottom: none 0 initial;
+    margin-top: 2.1428571429em;
+    margin-bottom: 1.4285714286em;
+    padding-bottom: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.602em;
+    font-style: normal;
+    font-weight: bold;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: normal;
+    word-spacing: normal; }
+  h3 {
+    border-bottom: none 0 initial;
+    margin-top: 2.1428571429em;
+    margin-bottom: 1.4285714286em;
+    padding-bottom: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.602em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: normal;
+    word-spacing: normal; }
+  h4 {
+    border-bottom: none 0 initial;
+    margin-top: 2.1428571429em;
+    margin-bottom: 1.4285714286em;
+    padding-bottom: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.42425em;
+    font-style: italic;
+    font-weight: normal;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: normal;
+    word-spacing: normal; }
+  h5 {
+    border-bottom: none 0 initial;
+    margin-top: 2.1428571429em;
+    margin-bottom: 1.4285714286em;
+    padding-bottom: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.265625em;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: normal;
+    word-spacing: normal; }
+  h6 {
+    border-bottom: none 0 initial;
+    margin-top: 2.1428571429em;
+    margin-bottom: 1.4285714286em;
+    padding-bottom: 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.265625em;
+    font-style: italic;
+    font-weight: normal;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: normal;
+    word-spacing: normal; }
 
 @media amzn-mobi {
   h1 {
@@ -552,23 +546,33 @@ table {
   table.shaded {
     background-color: #eee; }
   table.border {
-    border: 1px solid #000; }
+    border: 1px solid;
+    border-color: #000; }
   table.no-border, table.no-border tbody, table.no-border th, table.no-border tr, table.no-border td, table.no-border tfoot, table.no-border thead {
     border-top: 0;
     border-right: 0;
     border-bottom: 0;
     border-left: 0; }
   table.grid, table.grid tbody, table.grid th, table.grid tr, table.grid td, table.grid tfoot, table.grid thead {
-    border: 1px solid #000; }
+    border: 1px solid;
+    border-color: #000; }
   table.alignleft {
     float: left;
     margin-right: 1.5em; }
+  table td img.alignleft {
+    float: left; }
   table.aligncenter {
+    margin-left: auto;
+    margin-right: auto; }
+  table td img.aligncenter {
+    display: block;
     margin-left: auto;
     margin-right: auto; }
   table.alignright {
     float: right;
     margin-left: 1.5em; }
+  table td img.alignright {
+    float: right; }
 
 table, tr, th {
   page-break-inside: avoid; }
@@ -583,7 +587,8 @@ th {
   border-left: 0 none #000; }
 
 td {
-  border: 0 none #000;
+  border: 0 none;
+  border-color: #000;
   padding: 0.45em 0.45em 0.45em 0.45em;
   text-align: left;
   vertical-align: middle; }
@@ -705,7 +710,7 @@ aside, .aside {
   border-left: 0; }
 
 .pullquote, .pullquote-left, .pullquote--left, .pullquote-right, .pullquote--right {
-  display: block;
+  display: inline-block;
   font-family: 'Cormorant Garamond', serif;
   font-size: 1.25em;
   font-style: normal;
@@ -850,7 +855,7 @@ hr {
     font-size: 0.875em;
     font-style: normal;
     font-weight: bold; }
-  .textbox.learning-objectives, .bcc-box.learning-objectives, .bcc-highlight {
+  .textbox.learning-objectives, .learning-objectives.bcc-box, .bcc-highlight {
     padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em;
     margin-bottom: 1.35em;
     margin-left: 0;
@@ -860,7 +865,7 @@ hr {
     border-width: 0;
     color: #000;
     background: #cbd4b6; }
-    .textbox.learning-objectives h3, .bcc-box.learning-objectives h3, .bcc-highlight h3 {
+    .textbox.learning-objectives h3, .learning-objectives.bcc-box h3, .bcc-highlight h3 {
       padding: 1.1428571425em 1.1428571425em 1.1428571425em 1.1428571425em;
       margin: -1.1428571425em -1.1428571425em 1.1428571425em -1.1428571425em;
       border-top-right-radius: 0;
@@ -871,7 +876,7 @@ hr {
       color: #fff;
       background: #5a7613;
       text-align: left; }
-  .textbox.textbox--learning-objectives, .bcc-box.textbox--learning-objectives {
+  .textbox.textbox--learning-objectives, .textbox--learning-objectives.bcc-box {
     margin-bottom: 1.35em;
     padding: 0;
     border-radius: 0;
@@ -879,7 +884,7 @@ hr {
     border-width: 0;
     color: #000;
     background: #cbd4b6; }
-    .textbox.textbox--learning-objectives .textbox__header, .bcc-box.textbox--learning-objectives .textbox__header {
+    .textbox.textbox--learning-objectives .textbox__header, .textbox--learning-objectives.bcc-box .textbox__header {
       background: #5a7613;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
@@ -890,12 +895,14 @@ hr {
       margin: 0;
       padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em;
       text-align: left; }
-      .textbox.textbox--learning-objectives .textbox__header p, .bcc-box.textbox--learning-objectives .textbox__header p {
+      .textbox.textbox--learning-objectives .textbox__header h1, .textbox--learning-objectives.bcc-box .textbox__header h1, .textbox.textbox--learning-objectives .textbox__header h2, .textbox--learning-objectives.bcc-box .textbox__header h2, .textbox.textbox--learning-objectives .textbox__header h3, .textbox--learning-objectives.bcc-box .textbox__header h3, .textbox.textbox--learning-objectives .textbox__header h4, .textbox--learning-objectives.bcc-box .textbox__header h4, .textbox.textbox--learning-objectives .textbox__header h5, .textbox--learning-objectives.bcc-box .textbox__header h5, .textbox.textbox--learning-objectives .textbox__header h6, .textbox--learning-objectives.bcc-box .textbox__header h6 {
+        color: #fff; }
+      .textbox.textbox--learning-objectives .textbox__header p, .textbox--learning-objectives.bcc-box .textbox__header p {
         text-indent: 0; }
-    .textbox.textbox--learning-objectives .textbox__content, .bcc-box.textbox--learning-objectives .textbox__content {
+    .textbox.textbox--learning-objectives .textbox__content, .textbox--learning-objectives.bcc-box .textbox__content {
       margin: 0;
       padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em; }
-  .textbox.key-takeaways, .bcc-box.key-takeaways, .bcc-success {
+  .textbox.key-takeaways, .key-takeaways.bcc-box, .bcc-success {
     padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em;
     margin-bottom: 1.35em;
     margin-left: 0;
@@ -905,7 +912,7 @@ hr {
     border-width: 0;
     color: #000;
     background: #e8c1a2; }
-    .textbox.key-takeaways h3, .bcc-box.key-takeaways h3, .bcc-success h3 {
+    .textbox.key-takeaways h3, .key-takeaways.bcc-box h3, .bcc-success h3 {
       padding: 1.1428571425em 1.1428571425em 1.1428571425em 1.1428571425em;
       margin: -1.1428571425em -1.1428571425em 1.1428571425em -1.1428571425em;
       border-top-right-radius: 0;
@@ -916,7 +923,7 @@ hr {
       color: #fff;
       background: #c25700;
       text-align: left; }
-  .textbox.textbox--key-takeaways, .bcc-box.textbox--key-takeaways {
+  .textbox.textbox--key-takeaways, .textbox--key-takeaways.bcc-box {
     margin-bottom: 1.35em;
     padding: 0;
     border-radius: 0;
@@ -924,7 +931,7 @@ hr {
     border-width: 0;
     color: #000;
     background: #e8c1a2; }
-    .textbox.textbox--key-takeaways .textbox__header, .bcc-box.textbox--key-takeaways .textbox__header {
+    .textbox.textbox--key-takeaways .textbox__header, .textbox--key-takeaways.bcc-box .textbox__header {
       background: #c25700;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
@@ -935,12 +942,14 @@ hr {
       margin: 0;
       padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em;
       text-align: left; }
-      .textbox.textbox--key-takeaways .textbox__header p, .bcc-box.textbox--key-takeaways .textbox__header p {
+      .textbox.textbox--key-takeaways .textbox__header h1, .textbox--key-takeaways.bcc-box .textbox__header h1, .textbox.textbox--key-takeaways .textbox__header h2, .textbox--key-takeaways.bcc-box .textbox__header h2, .textbox.textbox--key-takeaways .textbox__header h3, .textbox--key-takeaways.bcc-box .textbox__header h3, .textbox.textbox--key-takeaways .textbox__header h4, .textbox--key-takeaways.bcc-box .textbox__header h4, .textbox.textbox--key-takeaways .textbox__header h5, .textbox--key-takeaways.bcc-box .textbox__header h5, .textbox.textbox--key-takeaways .textbox__header h6, .textbox--key-takeaways.bcc-box .textbox__header h6 {
+        color: #fff; }
+      .textbox.textbox--key-takeaways .textbox__header p, .textbox--key-takeaways.bcc-box .textbox__header p {
         text-indent: 0; }
-    .textbox.textbox--key-takeaways .textbox__content, .bcc-box.textbox--key-takeaways .textbox__content {
+    .textbox.textbox--key-takeaways .textbox__content, .textbox--key-takeaways.bcc-box .textbox__content {
       margin: 0;
       padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em; }
-  .textbox.exercises, .bcc-box.exercises, .bcc-info {
+  .textbox.exercises, .exercises.bcc-box, .bcc-info {
     padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em;
     margin-bottom: 1.35em;
     margin-left: 0;
@@ -950,7 +959,7 @@ hr {
     border-width: 0;
     color: #000;
     background: #cbdde5; }
-    .textbox.exercises h3, .bcc-box.exercises h3, .bcc-info h3 {
+    .textbox.exercises h3, .exercises.bcc-box h3, .bcc-info h3 {
       padding: 1.1428571425em 1.1428571425em 1.1428571425em 1.1428571425em;
       margin: -1.1428571425em -1.1428571425em 1.1428571425em -1.1428571425em;
       border-top-right-radius: 0;
@@ -961,7 +970,7 @@ hr {
       color: #fff;
       background: #0b6396;
       text-align: left; }
-  .textbox.textbox--exercises, .bcc-box.textbox--exercises {
+  .textbox.textbox--exercises, .textbox--exercises.bcc-box {
     margin-bottom: 1.35em;
     padding: 0;
     border-radius: 0;
@@ -969,7 +978,7 @@ hr {
     border-width: 0;
     color: #000;
     background: #cbdde5; }
-    .textbox.textbox--exercises .textbox__header, .bcc-box.textbox--exercises .textbox__header {
+    .textbox.textbox--exercises .textbox__header, .textbox--exercises.bcc-box .textbox__header {
       background: #0b6396;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
@@ -980,12 +989,14 @@ hr {
       margin: 0;
       padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em;
       text-align: left; }
-      .textbox.textbox--exercises .textbox__header p, .bcc-box.textbox--exercises .textbox__header p {
+      .textbox.textbox--exercises .textbox__header h1, .textbox--exercises.bcc-box .textbox__header h1, .textbox.textbox--exercises .textbox__header h2, .textbox--exercises.bcc-box .textbox__header h2, .textbox.textbox--exercises .textbox__header h3, .textbox--exercises.bcc-box .textbox__header h3, .textbox.textbox--exercises .textbox__header h4, .textbox--exercises.bcc-box .textbox__header h4, .textbox.textbox--exercises .textbox__header h5, .textbox--exercises.bcc-box .textbox__header h5, .textbox.textbox--exercises .textbox__header h6, .textbox--exercises.bcc-box .textbox__header h6 {
+        color: #fff; }
+      .textbox.textbox--exercises .textbox__header p, .textbox--exercises.bcc-box .textbox__header p {
         text-indent: 0; }
-    .textbox.textbox--exercises .textbox__content, .bcc-box.textbox--exercises .textbox__content {
+    .textbox.textbox--exercises .textbox__content, .textbox--exercises.bcc-box .textbox__content {
       margin: 0;
       padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em; }
-  .textbox.examples, .bcc-box.examples {
+  .textbox.examples, .examples.bcc-box {
     padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em;
     margin-bottom: 1.35em;
     margin-left: 0;
@@ -995,7 +1006,7 @@ hr {
     border-width: 0;
     color: #000;
     background: #c0bdcd; }
-    .textbox.examples h3, .bcc-box.examples h3 {
+    .textbox.examples h3, .examples.bcc-box h3 {
       padding: 1.1428571425em 1.1428571425em 1.1428571425em 1.1428571425em;
       margin: -1.1428571425em -1.1428571425em 1.1428571425em -1.1428571425em;
       border-top-right-radius: 0;
@@ -1006,7 +1017,7 @@ hr {
       color: #fff;
       background: #4f446d;
       text-align: left; }
-  .textbox.textbox--examples, .bcc-box.textbox--examples {
+  .textbox.textbox--examples, .textbox--examples.bcc-box {
     margin-bottom: 1.35em;
     padding: 0;
     border-radius: 0;
@@ -1014,7 +1025,7 @@ hr {
     border-width: 0;
     color: #000;
     background: #c0bdcd; }
-    .textbox.textbox--examples .textbox__header, .bcc-box.textbox--examples .textbox__header {
+    .textbox.textbox--examples .textbox__header, .textbox--examples.bcc-box .textbox__header {
       background: #4f446d;
       border-top-left-radius: 0;
       border-top-right-radius: 0;
@@ -1025,9 +1036,11 @@ hr {
       margin: 0;
       padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em;
       text-align: left; }
-      .textbox.textbox--examples .textbox__header p, .bcc-box.textbox--examples .textbox__header p {
+      .textbox.textbox--examples .textbox__header h1, .textbox--examples.bcc-box .textbox__header h1, .textbox.textbox--examples .textbox__header h2, .textbox--examples.bcc-box .textbox__header h2, .textbox.textbox--examples .textbox__header h3, .textbox--examples.bcc-box .textbox__header h3, .textbox.textbox--examples .textbox__header h4, .textbox--examples.bcc-box .textbox__header h4, .textbox.textbox--examples .textbox__header h5, .textbox--examples.bcc-box .textbox__header h5, .textbox.textbox--examples .textbox__header h6, .textbox--examples.bcc-box .textbox__header h6 {
+        color: #fff; }
+      .textbox.textbox--examples .textbox__header p, .textbox--examples.bcc-box .textbox__header p {
         text-indent: 0; }
-    .textbox.textbox--examples .textbox__content, .bcc-box.textbox--examples .textbox__content {
+    .textbox.textbox--examples .textbox__content, .textbox--examples.bcc-box .textbox__content {
       margin: 0;
       padding: 1.7777777778em 1.7777777778em 1.7777777778em 1.7777777778em; }
 
@@ -1041,20 +1054,44 @@ hr {
     margin: 5%;
     border-top: 1px solid;
     border-bottom: 1px solid; }
-  .ugc.chapter-ugc.textbox, .bcc-box.ugc.chapter-ugc {
+  .ugc.chapter-ugc.textbox, .ugc.chapter-ugc.bcc-box {
     padding-left: 10%;
     margin: 1.5em 5% 1.5em 10%;
     font-size: 0.9em;
     font-style: italic;
     border-top: 1px solid; }
-  .ugc.chapter-ugc.textbox p.nonindent, .bcc-box.ugc.chapter-ugc p.nonindent, .ugc.chapter-ugc.textbox p.indent, .bcc-box.ugc.chapter-ugc p.indent {
+  .ugc.chapter-ugc.textbox p.nonindent, .ugc.chapter-ugc.bcc-box p.nonindent, .ugc.chapter-ugc.textbox p.indent, .ugc.chapter-ugc.bcc-box p.indent {
     margin-right: 5%;
     margin-left: 10%;
     font-size: 0.9em;
     font-style: italic; } }
 
+.glossary-term {
+  font-weight: bold; }
+
 .interactive-content--audio .interactive-content__icon {
   background-image: url(assets/icon-audio.png); }
+
+p img.aligncenter {
+  margin: 0.5em auto 4.4444444444em;
+  text-align: center;
+  display: block; }
+  p img.aligncenter figcaption, p img.aligncenter .wp-caption-text {
+    text-align: left; }
+p img.alignleft {
+  float: left;
+  margin: 0.5em 1em 0.5em 0;
+  padding-right: 0; }
+  p img.alignleft figcaption, p img.alignleft .wp-caption-text {
+    text-align: left; }
+p img.alignright {
+  float: right;
+  margin: 0.5em 0 0.5em 1em;
+  padding-left: 0; }
+  p img.alignright figcaption, p img.alignright .wp-caption-text {
+    text-align: left; }
+p img.aligncenter, p img.alignleft, p img.alignright {
+  max-width: 50%; }
 
 figcaption, .wp-caption-text {
   font-family: 'Lora', serif;
@@ -1067,7 +1104,7 @@ figcaption, .wp-caption-text {
   text-align: left;
   text-transform: none;
   text-indent: 0;
-  color: (epub: initial, prince: initial, web: #373d3f); }
+  color: initial; }
 
 img {
   display: inline-block;
@@ -1327,16 +1364,6 @@ h1.title {
   text-transform: none;
   border-bottom: 0 none initial;
   padding-bottom: 0; }
-  h1.title::after {
-    font-family: 'Cormorant Garamond', serif;
-    content: "";
-    display: none;
-    white-space: pre;
-    font-size: 0em;
-    font-weight: normal;
-    margin-bottom: 0em;
-    margin-top: 0em;
-    color: initial; }
 
 h2.subtitle {
   margin-top: 0;
@@ -1464,16 +1491,6 @@ h5.publisher-city {
     padding-bottom: 0;
     letter-spacing: normal;
     word-spacing: normal; }
-    .back-matter-title-wrap h1.back-matter-title::after {
-      font-family: 'Cormorant Garamond', serif;
-      content: "";
-      display: none;
-      white-space: pre;
-      font-size: 0em;
-      font-weight: normal;
-      margin-bottom: 0em;
-      margin-top: 0em;
-      color: initial; }
   .back-matter-title-wrap h2.chapter-subtitle {
     display: block;
     margin-bottom: 0;
@@ -1535,16 +1552,6 @@ h5.publisher-city {
     text-transform: none;
     letter-spacing: normal;
     word-spacing: normal; }
-    .chapter-title-wrap h2.chapter-title::after {
-      font-family: 'Cormorant Garamond', serif;
-      content: "";
-      display: none;
-      white-space: pre;
-      font-size: 0em;
-      font-weight: normal;
-      margin-bottom: 0em;
-      margin-top: 0em;
-      color: initial; }
   .chapter-title-wrap .chapter-number {
     border-bottom: 0 none initial;
     display: none;
@@ -1684,16 +1691,6 @@ h5.publisher-city {
     hyphens: none;
     text-align: left;
     text-transform: none; }
-    .front-matter-title-wrap h1.front-matter-title::after {
-      font-family: 'Cormorant Garamond', serif;
-      content: "";
-      display: none;
-      white-space: pre;
-      font-size: 0em;
-      font-weight: normal;
-      margin-bottom: 0em;
-      margin-top: 0em;
-      color: initial; }
   .front-matter-title-wrap h2.chapter-subtitle {
     display: block;
     margin-bottom: 0;
@@ -1745,15 +1742,6 @@ h5.publisher-city {
   text-transform: none;
   letter-spacing: normal;
   word-spacing: normal; }
-  #toc h1::after {
-    font-family: 'Cormorant Garamond', serif;
-    content: "";
-    display: none;
-    white-space: pre;
-    font-size: 0em;
-    font-weight: normal;
-    margin-bottom: 0em;
-    margin-top: 0em; }
 
 @media amzn-mobi {
   h1.front-matter-title {
@@ -1798,16 +1786,6 @@ h5.publisher-city {
     letter-spacing: normal;
     word-spacing: normal;
     border-bottom: 0 none initial; }
-    .part-title-wrap .part-title::after {
-      font-family: 'Cormorant Garamond', serif;
-      content: "";
-      display: none;
-      white-space: pre;
-      font-size: 0em;
-      font-weight: normal;
-      margin-bottom: 0em;
-      margin-top: 0em;
-      color: initial; }
 
 @media amzn-mobi {
   h3.part-number {
@@ -1882,8 +1860,6 @@ h5.publisher-city {
   hyphens: none;
   margin-top: 1.5em;
   text-transform: none; }
-#toc .part.invisible {
-  display: none; }
 #toc .chapter {
   color: initial;
   font-family: 'Lora', serif;
@@ -2032,6 +2008,20 @@ h5.publisher-city {
 
 #toc .chapter-subtitle, #toc .chapter-author, #toc .chapter-license, #toc .sections {
   margin-left: 2.5em; }
+
+/**  HTML5 targeted  **/
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+  display: block; }
+
+audio, canvas, video {
+  display: inline-block; }
+
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+abbr[title] {
+  border-bottom: 1px dotted; }
 
 ol.ch1, ol.ch2, ol.ch3, ol.ch4, ol.ch5, ol.ch6, ol.ch7, ol.ch8, ol.ch9, ol.ch10, ol.ch11, ol.ch12, ol.ch13, ol.ch14, ol.ch15, ol.ch16, ol.ch17, ol.ch18, ol.ch19, ol.ch20, ol.ch21, ol.ch22, ol.ch23, ol.ch24, ol.ch25, ol.ch26, ol.ch27, ol.ch28, ol.ch29, ol.ch30, ol.ch31, ol.ch32, ol.ch33, ol.ch34, ol.ch35, ol.ch36, ol.ch37, ol.ch38, ol.ch39, ol.ch40, ol.ch41, ol.ch42, ol.ch43, ol.ch44, ol.ch45, ol.ch46, ol.ch47, ol.ch48, ol.ch49, ol.ch50, ol.ch51, ol.ch52, ol.ch53, ol.ch54, ol.ch55, ol.ch56, ol.ch57, ol.ch58, ol.ch59, ol.ch60, ol.ch61, ol.ch62, ol.ch63, ol.ch64, ol.ch65, ol.ch66, ol.ch67, ol.ch68, ol.ch69, ol.ch70, ol.ch71, ol.ch72, ol.ch73, ol.ch74, ol.ch75, ol.ch76, ol.ch77, ol.ch78, ol.ch79, ol.ch80, ol.ch81, ol.ch82, ol.ch83, ol.ch84, ol.ch85, ol.ch86, ol.ch87, ol.ch88, ol.ch89, ol.ch90, ol.ch91, ol.ch92, ol.ch93, ol.ch94, ol.ch95, ol.ch96, ol.ch97, ol.ch98, ol.ch99, ol.ch100 {
   counter-reset: item;
