@@ -629,6 +629,61 @@ tr {
   .threecolumn p + p {
     margin-top: 1em; }
 
+.contributors .chapter-authors, .contributors .book-contributors {
+  margin-top: 2rem;
+  font-family: 'Lora', serif; }
+.contributors .about-authors {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: left; }
+.contributors .contributor {
+  margin-top: 2rem; }
+  .contributors .contributor__type {
+    margin-top: 2rem;
+    margin-bottom: 2rem; }
+  .contributors .contributor__name__and__links:after {
+    content: "";
+    display: table;
+    clear: both; }
+  .contributors .contributor__profile__picture {
+    float: left;
+    margin: 0;
+    width: 33%;
+    max-width: 400px;
+    border-radius: 50%; }
+  .contributors .contributor__name__and__links > div {
+    float: left; }
+    .contributors .contributor__name__and__links > div.contributor__info__small {
+      width: 67%;
+      padding-left: 1.5rem;
+      box-sizing: border-box; }
+    .contributors .contributor__name__and__links > div.contributor__info__large {
+      width: 100%; }
+  .contributors .contributor__name {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.602em;
+    text-indent: 0;
+    margin: 0; }
+  .contributors .contributor__institution {
+    font-family: 'Cormorant Garamond', serif;
+    text-transform: uppercase;
+    text-indent: 0;
+    margin: 0; }
+  .contributors .contributor__website {
+    margin-top: 0;
+    text-indent: 0; }
+  .contributors .contributor__links {
+    margin-top: 0;
+    display: inline-block; }
+    .contributors .contributor__links svg {
+      width: 45px;
+      height: 45px; }
+  .contributors .contributor__link {
+    margin-top: 0;
+    text-indent: 0; }
+  .contributors .contributor__bio {
+    margin-top: 1em; }
+
 .first-character, .firstcharacter {
   font-family: 'Cormorant Garamond', serif;
   font-size: 300%;
@@ -1090,7 +1145,7 @@ p img.alignright {
   padding-left: 0; }
   p img.alignright figcaption, p img.alignright .wp-caption-text {
     text-align: left; }
-p img.aligncenter, p img.alignleft, p img.alignright {
+p img.alignleft, p img.alignright {
   max-width: 50%; }
 
 figcaption, .wp-caption-text {

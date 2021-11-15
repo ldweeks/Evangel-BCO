@@ -4,13 +4,13 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
 		<dc:title>Evangel Presbytery Book of Church Order</dc:title>
 <dc:language>en</dc:language>
-<meta property="dcterms:modified">2021-08-18T16:56:16Z</meta>
+<meta property="dcterms:modified">2021-11-15T21:28:12Z</meta>
 <dc:identifier id="PrimaryID">https://evangel.pressbooks.com</dc:identifier>
-<dc:description>Amended on June 3, 2021.&lt;br /&gt;&lt;em&gt;(Previous versions can be found &lt;a href=&quot;https://evangelpresbytery.com/bco-version-history/&quot;&gt;here&lt;/a&gt;.)&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;For more information, please visit &lt;a href=&quot;http://evangelpresbytery.com&quot;&gt;http://evangelpresbytery.com&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;</dc:description>
+<dc:description>Amended on October 8, 2021.&lt;br /&gt;&lt;em&gt;(Previous versions can be found &lt;a href=&quot;https://evangel.pressbooks.com/back-matter/updates/&quot;&gt;here&lt;/a&gt;.)&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;To download PDF and ebook versions of the BCO, please visit &lt;a href=&quot;http://evangelpresbytery.com/documents/&quot;&gt;http://evangelpresbytery.com/documents/&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;For more information about our presbytery, please visit &lt;a href=&quot;http://evangelpresbytery.com&quot;&gt;http://evangelpresbytery.com&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;</dc:description>
 <dc:creator id="author">Evangel Presbytery</dc:creator>
 <dc:contributor>Evangel Presbytery</dc:contributor>
 <meta refines="#author" property="file-as">Evangel Presbytery</meta><dc:rights>Copyright &#169; 2021 by Evangel Presbytery. Evangel Presbytery Book of Church Order Copyright © 2021 by Evangel Presbytery. All Rights Reserved.</dc:rights>
-<dc:date>2021-08-18</dc:date>
+<dc:date>2021-11-15</dc:date>
 <meta name="cover" content="cover-image" />
 	</metadata>
 
@@ -116,11 +116,11 @@
 <item id="media-CormorantGaramond-BoldItalic" href="OEBPS/assets/CormorantGaramond-BoldItalic.ttf" media-type="application/font-sfnt" />
 <item id="media-CormorantGaramond-Italic" href="OEBPS/assets/CormorantGaramond-Italic.ttf" media-type="application/font-sfnt" />
 <item id="media-CormorantGaramond-Regular" href="OEBPS/assets/CormorantGaramond-Regular.ttf" media-type="application/font-sfnt" />
+<item id="cover-image" href="OEBPS/assets/Evangel-Presbytery-Book-of-Church-Order-cover-1636998455.jpg" media-type="image/jpeg" />
 <item id="media-Lora-Bold" href="OEBPS/assets/Lora-Bold.ttf" media-type="application/font-sfnt" />
 <item id="media-Lora-BoldItalic" href="OEBPS/assets/Lora-BoldItalic.ttf" media-type="application/font-sfnt" />
 <item id="media-Lora-Italic" href="OEBPS/assets/Lora-Italic.ttf" media-type="application/font-sfnt" />
 <item id="media-Lora-Regular" href="OEBPS/assets/Lora-Regular.ttf" media-type="application/font-sfnt" />
-<item id="cover-image" href="OEBPS/assets/cover-scaled.jpg" media-type="image/jpeg" />
 <item id="media-icon-audio" href="OEBPS/assets/icon-audio.png" media-type="image/png" />
 <item id="media-icon-interactive" href="OEBPS/assets/icon-interactive.png" media-type="image/png" />
 <item id="media-icon-video" href="OEBPS/assets/icon-video.png" media-type="image/png" />
